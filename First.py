@@ -15,7 +15,7 @@
 ##
 ##  Date				    Developer		  	Action
 ##  ---------------------------------------------------------------------
-##  Jan 20, 2019    		Steve Young			Inital development 
+##  Jan 15, 2019    		Steve Young			Inital development 
 ## 
 ## 
 ## 

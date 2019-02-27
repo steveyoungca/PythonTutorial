@@ -1,0 +1,934 @@
+﻿EmployeeID,HireDate,FacilityID,OrganizationLevel,CurrentFlag,SalesPersonFlag,JobTitle,BirthDate,MaritalStatus,Gender,NameFull,FacilityName,Region,Years,GrossPay,BaseSalary,SeniorityBonus,Overtime,Other,Total Other Pay
+1,2003-10-13,3,0,1,0,Chief Executive Officer,28706,S,F, Ashley Berry,Port Perry,East,2012,113334.44,110938.46,0.00,0.00,2395.98,2395.98
+1,2003-10-13,3,0,1,0,Chief Executive Officer,28706,S,F, Ashley Berry,Port Perry,East,2013,117453.16,112072.46,0.00,0.00,1071.00,1071.00
+1,2003-10-13,3,0,1,0,Chief Executive Officer,28706,S,F, Ashley Berry,Port Perry,East,2014,116954.68,114713.94,0.00,0.00,0.00,0.00
+1,2003-10-13,3,0,1,0,Chief Executive Officer,28706,S,F, Ashley Berry,Port Perry,East,2015,134621.21,122422.93,0.00,0.00,1020.00,1020.00
+1,2003-10-13,3,0,1,0,Chief Executive Officer,28706,S,F, Ashley Berry,Port Perry,East,2016,132816.20,124083.78,0.00,0.00,1530.00,1530.00
+1,2003-10-13,3,0,1,0,Chief Executive Officer,28706,S,F, Ashley Berry,Port Perry,East,2017,136914.55,128320.34,0.00,0.00,1530.00,1530.00
+2,1997-12-30,1,1,1,0,Vice President of Engineering,23001,S,F, Jasmine Lopez,Gravenhurst,East,2012,27651.13,27012.52,0.00,0.00,638.61,638.61
+2,1997-12-30,1,1,1,0,Vice President of Engineering,23001,S,F, Jasmine Lopez,Gravenhurst,East,2013,57622.49,43992.52,0.00,9777.23,1275.00,11052.23
+2,1997-12-30,1,1,1,0,Vice President of Engineering,23001,S,F, Jasmine Lopez,Gravenhurst,East,2014,67596.47,48361.93,0.00,13525.80,2550.00,16075.80
+2,1997-12-30,1,1,1,0,Vice President of Engineering,23001,S,F, Jasmine Lopez,Gravenhurst,East,2015,79683.50,52082.72,0.00,21430.23,2671.95,24102.18
+2,1997-12-30,1,1,1,0,Vice President of Engineering,23001,S,F, Jasmine Lopez,Gravenhurst,East,2016,100366.19,57630.59,0.00,37162.19,1716.38,38878.58
+2,1997-12-30,1,1,1,0,Vice President of Engineering,23001,S,F, Jasmine Lopez,Gravenhurst,East,2017,111584.47,63503.36,0.00,46209.02,1872.09,48081.11
+3,2001-04-12,6,2,1,0,Engineering Manager,17821,M,F, Megan Francis,Burlington,West,2014,2242.66,2242.66,0.00,0.00,0.00,0.00
+3,2001-04-12,6,2,1,0,Engineering Manager,17821,M,F, Megan Francis,Burlington,West,2015,2758.38,2758.38,0.00,0.00,0.00,0.00
+3,2001-04-12,6,2,1,0,Engineering Manager,17821,M,F, Megan Francis,Burlington,West,2016,3559.04,3559.04,0.00,0.00,0.00,0.00
+3,2001-04-12,6,2,1,0,Engineering Manager,17821,M,F, Megan Francis,Burlington,West,2017,2574.99,2574.99,0.00,0.00,0.00,0.00
+4,1998-08-03,4,3,1,0,Senior Tool Designer,21679,S,F, Suzanne Carpenter,Pickering,East,2012,90476.57,81795.04,3696.82,4424.73,559.98,8681.53
+4,1998-08-03,4,3,1,0,Senior Tool Designer,21679,S,F, Suzanne Carpenter,Pickering,East,2013,95179.78,82205.71,3709.89,7989.17,1275.00,12974.06
+4,1998-08-03,4,3,1,0,Senior Tool Designer,21679,S,F, Suzanne Carpenter,Pickering,East,2014,94893.36,83902.08,4131.13,5330.15,1530.00,10991.29
+4,1998-08-03,4,3,1,0,Senior Tool Designer,21679,S,F, Suzanne Carpenter,Pickering,East,2015,97465.29,85328.58,4628.21,5978.51,1530.00,12136.71
+4,1998-08-03,4,3,1,0,Senior Tool Designer,21679,S,F, Suzanne Carpenter,Pickering,East,2016,98024.71,87033.50,5155.86,4305.36,1530.00,10991.21
+4,1998-08-03,4,3,1,0,Senior Tool Designer,21679,S,F, Suzanne Carpenter,Pickering,East,2017,101089.86,88991.41,5699.95,4868.50,1530.00,12098.45
+5,1997-11-19,7,3,1,0,Design Engineer,27965,M,F, Margie Perkins,Brantford,West,2012,149660.07,92948.37,4275.76,43966.31,4287.22,52529.30
+5,1997-11-19,7,3,1,0,Design Engineer,27965,M,F, Margie Perkins,Brantford,West,2013,152401.63,100198.45,4955.98,41194.07,6053.13,52203.17
+5,1997-11-19,7,3,1,0,Design Engineer,27965,M,F, Margie Perkins,Brantford,West,2014,181474.78,103681.57,5512.08,67181.13,5100.00,77793.21
+5,1997-11-19,7,3,1,0,Design Engineer,27965,M,F, Margie Perkins,Brantford,West,2015,186185.37,105522.87,6109.79,68413.10,6139.61,80662.51
+5,1997-11-19,7,3,1,0,Design Engineer,27965,M,F, Margie Perkins,Brantford,West,2016,183097.61,107067.92,6733.95,61720.30,5100.00,73554.25
+5,1997-11-19,7,3,1,0,Design Engineer,27965,M,F, Margie Perkins,Brantford,West,2017,167898.08,110783.23,7868.52,40649.73,3338.98,51857.24
+6,2002-03-25,9,3,1,0,Design Engineer,16805,M,F, Erika George,Sudbury,West,2017,6502.50,6502.50,0.00,0.00,0.00,0.00
+7,1999-01-02,3,3,1,0,Research and Development Manager,26472,M,F, Dorothy Underwood,Port Perry,East,2016,1262.25,1262.25,0.00,0.00,0.00,0.00
+7,1999-01-02,3,3,1,0,Research and Development Manager,26472,M,F, Dorothy Underwood,Port Perry,East,2017,122.40,122.40,0.00,0.00,0.00,0.00
+8,2002-04-02,5,4,1,0,Research and Development Engineer,23308,S,F, Lori Moore,Bronte,East,2012,62895.76,60740.72,0.00,834.05,1320.98,2155.04
+8,2002-04-02,5,4,1,0,Research and Development Engineer,23308,S,F, Lori Moore,Bronte,East,2013,68771.92,64516.36,0.00,1505.78,2749.78,4255.55
+8,2002-04-02,5,4,1,0,Research and Development Engineer,23308,S,F, Lori Moore,Bronte,East,2014,74917.31,69081.02,0.00,1070.08,4766.21,5836.29
+8,2002-04-02,5,4,1,0,Research and Development Engineer,23308,S,F, Lori Moore,Bronte,East,2015,78091.05,74116.56,0.00,897.43,3077.06,3974.49
+8,2002-04-02,5,4,1,0,Research and Development Engineer,23308,S,F, Lori Moore,Bronte,East,2016,86084.07,79141.13,0.00,1506.38,2871.07,4377.44
+8,2002-04-02,5,4,1,0,Research and Development Engineer,23308,S,F, Lori Moore,Bronte,East,2017,95272.32,84969.57,396.90,2077.63,7828.22,10302.75
+9,2003-10-07,3,4,1,0,Research and Development Engineer,27244,M,F, Marsha Spencer,Port Perry,East,2012,13684.32,13684.32,0.00,0.00,0.00,0.00
+9,2003-10-07,3,4,1,0,Research and Development Engineer,27244,M,F, Marsha Spencer,Port Perry,East,2013,10919.61,10919.61,0.00,0.00,0.00,0.00
+9,2003-10-07,3,4,1,0,Research and Development Engineer,27244,M,F, Marsha Spencer,Port Perry,East,2014,10707.45,10707.45,0.00,0.00,0.00,0.00
+9,2003-10-07,3,4,1,0,Research and Development Engineer,27244,M,F, Marsha Spencer,Port Perry,East,2015,11744.47,11744.47,0.00,0.00,0.00,0.00
+9,2003-10-07,3,4,1,0,Research and Development Engineer,27244,M,F, Marsha Spencer,Port Perry,East,2016,17605.72,17605.72,0.00,0.00,0.00,0.00
+9,2003-10-07,3,4,1,0,Research and Development Engineer,27244,M,F, Marsha Spencer,Port Perry,East,2017,16067.17,16067.17,0.00,0.00,0.00,0.00
+10,2001-10-05,5,4,1,0,Research and Development Manager,29420,M,F, Lydia Butler,Bronte,East,2012,89026.49,60740.64,0.00,23228.15,2438.33,25666.48
+10,2001-10-05,5,4,1,0,Research and Development Manager,29420,M,F, Lydia Butler,Bronte,East,2013,108538.05,64543.42,0.00,37613.34,3583.24,41196.58
+10,2001-10-05,5,4,1,0,Research and Development Manager,29420,M,F, Lydia Butler,Bronte,East,2014,114695.83,69050.55,0.00,36308.16,6335.86,42644.03
+10,2001-10-05,5,4,1,0,Research and Development Manager,29420,M,F, Lydia Butler,Bronte,East,2015,103472.19,74145.92,0.00,20325.33,5794.06,26119.38
+10,2001-10-05,5,4,1,0,Research and Development Manager,29420,M,F, Lydia Butler,Bronte,East,2016,115390.26,83015.41,0.00,26423.06,2988.73,29411.79
+10,2001-10-05,5,4,1,0,Research and Development Manager,29420,M,F, Lydia Butler,Bronte,East,2017,136234.69,93212.11,453.61,34746.87,5319.26,40519.74
+11,1998-03-06,5,3,1,0,Senior Tool Designer,32978,S,F, Carole Brock,Bronte,East,2015,82.62,82.62,0.00,0.00,0.00,0.00
+12,2003-06-05,10,4,1,0,Tool Designer,21674,M,F, Phyllis Phillips,Sault Ste. Marie,West,2015,5214.75,5214.75,0.00,0.00,0.00,0.00
+12,2003-06-05,10,4,1,0,Tool Designer,21674,M,F, Phyllis Phillips,Sault Ste. Marie,West,2016,8297.50,8297.50,0.00,0.00,0.00,0.00
+12,2003-06-05,10,4,1,0,Tool Designer,21674,M,F, Phyllis Phillips,Sault Ste. Marie,West,2017,8876.55,8876.55,0.00,0.00,0.00,0.00
+13,1997-05-26,5,4,1,0,Tool Designer,32615,M,F, Whitney Copeland,Bronte,East,2013,79650.86,77551.26,0.00,56.67,2042.93,2099.60
+13,1997-05-26,5,4,1,0,Tool Designer,32615,M,F, Whitney Copeland,Bronte,East,2014,84920.02,82436.87,0.00,15.18,2467.97,2483.15
+13,1997-05-26,5,4,1,0,Tool Designer,32615,M,F, Whitney Copeland,Bronte,East,2015,93325.08,88890.08,2166.71,669.96,1598.33,4435.00
+13,1997-05-26,5,4,1,0,Tool Designer,32615,M,F, Whitney Copeland,Bronte,East,2016,93125.85,87226.02,2980.77,1109.73,1809.33,5899.82
+13,1997-05-26,5,4,1,0,Tool Designer,32615,M,F, Whitney Copeland,Bronte,East,2017,95149.29,88979.22,3491.66,1106.38,1572.02,6170.07
+14,2003-02-15,8,3,1,0,Senior Design Engineer,28863,S,F, Doreen Lambert,London,West,2012,78202.24,77163.89,0.00,0.00,1038.35,1038.35
+15,1997-01-13,6,3,1,0,Design Engineer,32827,M,F, Diana Schmidt,Burlington,West,2012,44006.22,36693.59,0.00,0.00,7312.62,7312.62
+15,1997-01-13,6,3,1,0,Design Engineer,32827,M,F, Diana Schmidt,Burlington,West,2013,40556.13,32187.56,0.00,0.00,8368.57,8368.57
+15,1997-01-13,6,3,1,0,Design Engineer,32827,M,F, Diana Schmidt,Burlington,West,2014,61169.06,53036.44,0.00,0.00,8132.62,8132.62
+15,1997-01-13,6,3,1,0,Design Engineer,32827,M,F, Diana Schmidt,Burlington,West,2015,69410.16,60794.23,0.00,331.35,8284.58,8615.93
+15,1997-01-13,6,3,1,0,Design Engineer,32827,M,F, Diana Schmidt,Burlington,West,2016,63773.08,63396.35,0.00,376.74,0.00,376.74
+15,1997-01-13,6,3,1,0,Design Engineer,32827,M,F, Diana Schmidt,Burlington,West,2017,67762.65,66888.65,711.93,162.07,0.00,874.00
+16,1998-11-21,6,1,1,0,Marketing Manager,17788,S,F, Jean Smith,Burlington,West,2014,3073.01,3073.01,0.00,0.00,0.00,0.00
+17,2003-09-09,1,2,1,0,Marketing Assistant,17491,S,F, Loretta Bass,Gravenhurst,East,2015,5140.31,4497.63,0.00,642.68,0.00,642.68
+17,2003-09-09,1,2,1,0,Marketing Assistant,17491,S,F, Loretta Bass,Gravenhurst,East,2016,42481.16,39862.88,0.00,2618.29,0.00,2618.29
+17,2003-09-09,1,2,1,0,Marketing Assistant,17491,S,F, Loretta Bass,Gravenhurst,East,2017,96817.73,62878.23,0.00,24592.76,4017.44,28610.20
+18,2002-06-03,4,2,1,0,Marketing Specialist,21105,S,F, Willie Robbins,Pickering,East,2012,149311.32,113100.16,11310.16,19409.11,382.50,31101.77
+18,2002-06-03,4,2,1,0,Marketing Specialist,21105,S,F, Willie Robbins,Pickering,East,2013,163750.51,113766.21,11376.73,31892.19,1530.00,44798.92
+18,2002-06-03,4,2,1,0,Marketing Specialist,21105,S,F, Willie Robbins,Pickering,East,2014,175629.44,115223.97,11522.55,36520.23,5213.41,53256.20
+18,2002-06-03,4,2,1,0,Marketing Specialist,21105,S,F, Willie Robbins,Pickering,East,2015,170356.92,117242.43,11724.37,29134.37,7423.44,48282.18
+18,2002-06-03,4,2,1,0,Marketing Specialist,21105,S,F, Willie Robbins,Pickering,East,2016,163837.46,119433.28,11943.41,26878.95,1530.00,40352.36
+18,2002-06-03,4,2,1,0,Marketing Specialist,21105,S,F, Willie Robbins,Pickering,East,2017,162634.93,15229.62,1522.98,8065.43,382.50,9970.91
+19,2003-02-04,6,2,1,0,Marketing Assistant,17536,S,F, Miranda Hubbard,Burlington,West,2013,2469.93,2469.93,0.00,0.00,0.00,0.00
+19,2003-02-04,6,2,1,0,Marketing Assistant,17536,S,F, Miranda Hubbard,Burlington,West,2014,2909.55,2909.55,0.00,0.00,0.00,0.00
+19,2003-02-04,6,2,1,0,Marketing Assistant,17536,S,F, Miranda Hubbard,Burlington,West,2015,2586.72,2586.72,0.00,0.00,0.00,0.00
+19,2003-02-04,6,2,1,0,Marketing Assistant,17536,S,F, Miranda Hubbard,Burlington,West,2016,10395.97,10371.11,0.00,24.87,0.00,24.87
+19,2003-02-04,6,2,1,0,Marketing Assistant,17536,S,F, Miranda Hubbard,Burlington,West,2017,11074.91,11074.91,0.00,0.00,0.00,0.00
+20,2003-03-07,5,2,1,0,Marketing Assistant,34273,M,F, Brooke Rodgers,Bronte,East,2012,4605.83,4605.83,0.00,0.00,0.00,0.00
+21,2003-08-20,7,2,1,0,Marketing Specialist,22298,M,F, Irma Harper,Brantford,West,2017,1907.40,897.60,0.00,1009.80,0.00,1009.80
+22,1997-12-29,4,2,1,0,Marketing Specialist,23146,S,F, Eleanor Meyer,Pickering,East,2016,5743.25,5743.25,0.00,0.00,0.00,0.00
+22,1997-12-29,4,2,1,0,Marketing Specialist,23146,S,F, Eleanor Meyer,Pickering,East,2017,3635.28,3635.28,0.00,0.00,0.00,0.00
+23,1999-10-04,7,2,1,0,Marketing Specialist,17376,M,F, Patricia Frazier,Brantford,West,2012,5278.47,5278.47,0.00,0.00,0.00,0.00
+23,1999-10-04,7,2,1,0,Marketing Specialist,17376,M,F, Patricia Frazier,Brantford,West,2013,8752.62,8752.62,0.00,0.00,0.00,0.00
+23,1999-10-04,7,2,1,0,Marketing Specialist,17376,M,F, Patricia Frazier,Brantford,West,2014,10336.68,10336.68,0.00,0.00,0.00,0.00
+23,1999-10-04,7,2,1,0,Marketing Specialist,17376,M,F, Patricia Frazier,Brantford,West,2015,13313.04,13313.04,0.00,0.00,0.00,0.00
+23,1999-10-04,7,2,1,0,Marketing Specialist,17376,M,F, Patricia Frazier,Brantford,West,2016,19108.13,19108.13,0.00,0.00,0.00,0.00
+23,1999-10-04,7,2,1,0,Marketing Specialist,17376,M,F, Patricia Frazier,Brantford,West,2017,45895.02,44996.07,0.00,808.26,90.70,898.96
+24,2002-12-31,6,2,1,0,Marketing Specialist,34722,M,F, Paulette Wade,Burlington,West,2012,86927.80,78984.38,7898.61,0.00,44.80,7943.41
+24,2002-12-31,6,2,1,0,Marketing Specialist,34722,M,F, Paulette Wade,Burlington,West,2013,87723.58,79512.95,7997.43,0.00,213.20,8210.63
+24,2002-12-31,6,2,1,0,Marketing Specialist,34722,M,F, Paulette Wade,Burlington,West,2014,45874.14,2656.43,265.65,0.00,0.00,265.65
+25,2002-04-03,8,1,1,0,Vice President of Production,31468,S,F, Teri Crawford,London,West,2015,24433.32,22966.05,0.00,1294.01,173.26,1467.27
+25,2002-04-03,8,1,1,0,Vice President of Production,31468,S,F, Teri Crawford,London,West,2016,43395.38,39669.87,0.00,3150.73,574.78,3725.51
+25,2002-04-03,8,1,1,0,Vice President of Production,31468,S,F, Teri Crawford,London,West,2017,47024.21,45252.34,0.00,530.11,568.07,1098.18
+26,2004-01-11,2,2,1,0,Production Control Manager,23222,M,F, Naomi Stokes,Bracebridge,East,2012,94568.75,85777.17,6004.54,0.00,0.00,6004.54
+26,2004-01-11,2,2,1,0,Production Control Manager,23222,M,F, Naomi Stokes,Bracebridge,East,2013,94396.25,85415.51,6208.37,0.00,0.00,6208.37
+26,2004-01-11,2,2,1,0,Production Control Manager,23222,M,F, Naomi Stokes,Bracebridge,East,2014,96295.31,85093.26,6611.64,0.00,1805.21,8416.85
+26,2004-01-11,2,2,1,0,Production Control Manager,23222,M,F, Naomi Stokes,Bracebridge,East,2015,100877.88,88966.08,7355.97,0.00,4555.82,11911.79
+26,2004-01-11,2,2,1,0,Production Control Manager,23222,M,F, Naomi Stokes,Bracebridge,East,2016,100079.96,89023.76,7808.31,0.00,425.34,8233.65
+26,2004-01-11,2,2,1,0,Production Control Manager,23222,M,F, Naomi Stokes,Bracebridge,East,2017,99222.38,90803.08,8419.29,0.00,0.00,8419.29
+27,2001-11-19,5,3,1,0,Production Supervisor - WC60,27539,S,F, Christine Barnett,Bronte,East,2014,2646.14,2646.14,0.00,0.00,0.00,0.00
+27,2001-11-19,5,3,1,0,Production Supervisor - WC60,27539,S,F, Christine Barnett,Bronte,East,2015,3231.36,3231.36,0.00,0.00,0.00,0.00
+28,1996-10-30,1,4,1,0,Production Technician - WC60,24214,M,F, Elena Harrington,Gravenhurst,East,2017,18692.69,18509.56,0.00,0.00,183.13,183.13
+29,1996-06-01,8,4,1,0,Production Technician - WC60,29677,S,F, Rosa Watson,London,West,2012,13112.10,13112.10,0.00,0.00,0.00,0.00
+29,1996-06-01,8,4,1,0,Production Technician - WC60,29677,S,F, Rosa Watson,London,West,2013,15554.49,15554.49,0.00,0.00,0.00,0.00
+29,1996-06-01,8,4,1,0,Production Technician - WC60,29677,S,F, Rosa Watson,London,West,2014,13726.65,13726.65,0.00,0.00,0.00,0.00
+29,1996-06-01,8,4,1,0,Production Technician - WC60,29677,S,F, Rosa Watson,London,West,2015,6633.06,6633.06,0.00,0.00,0.00,0.00
+30,1997-01-13,1,4,1,0,Production Technician - WC60,17120,M,F, Alexandra Cunningham,Gravenhurst,East,2012,3192.59,3192.59,0.00,0.00,0.00,0.00
+31,2000-02-13,7,4,1,0,Production Technician - WC60,24628,M,F, Nichole Briggs,Brantford,West,2012,2845.80,2845.80,0.00,0.00,0.00,0.00
+31,2000-02-13,7,4,1,0,Production Technician - WC60,24628,M,F, Nichole Briggs,Brantford,West,2013,9018.33,9018.33,0.00,0.00,0.00,0.00
+31,2000-02-13,7,4,1,0,Production Technician - WC60,24628,M,F, Nichole Briggs,Brantford,West,2014,12316.50,12316.50,0.00,0.00,0.00,0.00
+31,2000-02-13,7,4,1,0,Production Technician - WC60,24628,M,F, Nichole Briggs,Brantford,West,2015,2411.28,2411.28,0.00,0.00,0.00,0.00
+31,2000-02-13,7,4,1,0,Production Technician - WC60,24628,M,F, Nichole Briggs,Brantford,West,2016,10122.48,10122.48,0.00,0.00,0.00,0.00
+31,2000-02-13,7,4,1,0,Production Technician - WC60,24628,M,F, Nichole Briggs,Brantford,West,2017,12714.30,12714.30,0.00,0.00,0.00,0.00
+32,1997-06-20,8,4,1,0,Production Technician - WC60,26660,M,F, Ella Peters,London,West,2013,2928.59,2928.59,0.00,0.00,0.00,0.00
+33,2001-02-09,7,4,1,0,Production Technician - WC60,30450,M,F, Yvette Dixon,Brantford,West,2017,174.42,174.42,0.00,0.00,0.00,0.00
+34,1998-04-15,10,4,1,0,Production Technician - WC60,29596,M,F, Margarita Brooks,Sault Ste. Marie,West,2012,14025.66,13834.93,0.00,0.00,190.73,190.73
+34,1998-04-15,10,4,1,0,Production Technician - WC60,29596,M,F, Margarita Brooks,Sault Ste. Marie,West,2013,2751.45,2553.07,0.00,0.00,0.00,0.00
+35,1997-02-09,3,4,1,0,Production Technician - WC60,25659,M,F, Lydia Chambers,Port Perry,East,2012,164648.85,91375.04,9137.59,57191.52,382.50,66711.61
+35,1997-02-09,3,4,1,0,Production Technician - WC60,25659,M,F, Lydia Chambers,Port Perry,East,2013,198486.75,97235.98,9723.74,83496.96,1530.00,94750.70
+35,1997-02-09,3,4,1,0,Production Technician - WC60,25659,M,F, Lydia Chambers,Port Perry,East,2014,196659.77,98481.92,9466.73,80102.04,2711.65,92280.42
+35,1997-02-09,3,4,1,0,Production Technician - WC60,25659,M,F, Lydia Chambers,Port Perry,East,2015,210243.80,100207.03,10402.45,89333.57,3928.55,103664.57
+35,1997-02-09,3,4,1,0,Production Technician - WC60,25659,M,F, Lydia Chambers,Port Perry,East,2016,220179.80,102052.96,10205.43,94797.34,3193.32,108196.09
+35,1997-02-09,3,4,1,0,Production Technician - WC60,25659,M,F, Lydia Chambers,Port Perry,East,2017,187317.68,105215.61,10521.69,37731.17,24248.07,72500.93
+36,1998-12-10,7,4,1,0,Production Technician - WC60,32163,M,F, Becky Ward,Brantford,West,2013,2437.80,2437.80,0.00,0.00,0.00,0.00
+37,1997-02-14,10,4,1,0,Production Technician - WC60,25882,S,F, Cristina Walker,Sault Ste. Marie,West,2012,1857.09,1857.09,0.00,0.00,0.00,0.00
+38,2002-12-17,8,4,1,0,Production Technician - WC60,29247,M,F, Bethany Olson,London,West,2017,1055.58,1055.58,0.00,0.00,0.00,0.00
+39,2001-03-02,9,4,1,0,Production Technician - WC60,22132,S,F, Mae Shaw,Sudbury,West,2016,867.00,836.40,0.00,30.60,0.00,30.60
+40,2003-02-28,8,3,1,0,Production Supervisor - WC60,18673,S,F, Sonia Mccoy,London,West,2017,31924.83,29858.18,0.00,1399.28,667.37,2066.64
+41,2002-01-10,2,4,1,0,Production Technician - WC60,25788,S,F, Laurie Glover,Bracebridge,East,2012,75703.14,67231.75,6387.14,221.73,0.00,6608.87
+41,2002-01-10,2,4,1,0,Production Technician - WC60,25788,S,F, Laurie Glover,Bracebridge,East,2013,59668.13,53705.81,5187.13,775.20,0.00,5962.33
+41,2002-01-10,2,4,1,0,Production Technician - WC60,25788,S,F, Laurie Glover,Bracebridge,East,2014,22779.45,18874.75,1887.51,0.00,0.00,1887.51
+42,1996-04-30,4,4,1,0,Production Technician - WC60,18862,M,F, Blanca Larson,Pickering,East,2012,55297.55,55297.55,0.00,0.00,0.00,0.00
+42,1996-04-30,4,4,1,0,Production Technician - WC60,18862,M,F, Blanca Larson,Pickering,East,2013,61183.59,57803.94,0.00,3379.65,0.00,3379.65
+42,1996-04-30,4,4,1,0,Production Technician - WC60,18862,M,F, Blanca Larson,Pickering,East,2014,61741.74,60975.27,0.00,766.47,0.00,766.47
+42,1996-04-30,4,4,1,0,Production Technician - WC60,18862,M,F, Blanca Larson,Pickering,East,2015,77172.39,66103.19,910.19,7276.70,2882.32,11069.20
+42,1996-04-30,4,4,1,0,Production Technician - WC60,18862,M,F, Blanca Larson,Pickering,East,2016,68471.42,66278.40,2143.02,50.00,0.00,2193.02
+42,1996-04-30,4,4,1,0,Production Technician - WC60,18862,M,F, Blanca Larson,Pickering,East,2017,70623.24,67759.14,2530.19,0.00,333.91,2864.10
+43,1998-06-24,9,4,1,0,Production Technician - WC60,18759,M,F, Miriam Maxwell,Sudbury,West,2012,116920.36,105695.55,5657.25,3605.08,1962.48,11224.80
+43,1998-06-24,9,4,1,0,Production Technician - WC60,18759,M,F, Miriam Maxwell,Sudbury,West,2013,121657.64,104585.59,5973.08,6601.48,714.00,13288.56
+43,1998-06-24,9,4,1,0,Production Technician - WC60,18759,M,F, Miriam Maxwell,Sudbury,West,2014,128272.83,107368.24,6401.25,3713.94,5828.52,15943.72
+43,1998-06-24,9,4,1,0,Production Technician - WC60,18759,M,F, Miriam Maxwell,Sudbury,West,2015,130754.32,108334.04,7000.20,5600.44,4735.76,17336.40
+43,1998-06-24,9,4,1,0,Production Technician - WC60,18759,M,F, Miriam Maxwell,Sudbury,West,2016,154089.78,117318.46,8167.92,0.00,3060.00,11227.92
+43,1998-06-24,9,4,1,0,Production Technician - WC60,18759,M,F, Miriam Maxwell,Sudbury,West,2017,143109.14,120856.68,9018.62,0.00,5073.54,14092.16
+44,1998-04-30,10,4,1,0,Production Technician - WC60,31649,S,F, Ruby Munoz,Sault Ste. Marie,West,2012,225661.86,166318.56,0.00,0.00,11016.00,11016.00
+44,1998-04-30,10,4,1,0,Production Technician - WC60,31649,S,F, Ruby Munoz,Sault Ste. Marie,West,2013,192456.92,172087.11,0.00,0.00,7038.00,7038.00
+44,1998-04-30,10,4,1,0,Production Technician - WC60,31649,S,F, Ruby Munoz,Sault Ste. Marie,West,2014,193662.72,184552.08,0.00,0.00,0.00,0.00
+44,1998-04-30,10,4,1,0,Production Technician - WC60,31649,S,F, Ruby Munoz,Sault Ste. Marie,West,2015,208443.79,194091.45,0.00,0.00,1222.08,1222.08
+44,1998-04-30,10,4,1,0,Production Technician - WC60,31649,S,F, Ruby Munoz,Sault Ste. Marie,West,2016,218031.36,202795.01,0.00,0.00,1530.00,1530.00
+44,1998-04-30,10,4,1,0,Production Technician - WC60,31649,S,F, Ruby Munoz,Sault Ste. Marie,West,2017,253187.55,225927.44,0.00,0.00,9690.00,9690.00
+45,2003-11-30,2,4,1,0,Production Technician - WC60,29866,M,F, Raquel Grant,Bracebridge,East,2017,3047.25,2947.80,0.00,99.45,0.00,99.45
+46,1996-01-30,10,4,1,0,Production Technician - WC60,19432,S,F, Kerry Becker,Sault Ste. Marie,West,2012,134456.84,89225.69,4993.31,35958.12,382.50,41333.93
+46,1996-01-30,10,4,1,0,Production Technician - WC60,19432,S,F, Kerry Becker,Sault Ste. Marie,West,2013,133758.64,89742.80,5471.38,33054.81,1530.00,40056.20
+46,1996-01-30,10,4,1,0,Production Technician - WC60,19432,S,F, Kerry Becker,Sault Ste. Marie,West,2014,144593.05,90901.38,5996.73,42126.96,1530.00,49653.69
+46,1996-01-30,10,4,1,0,Production Technician - WC60,19432,S,F, Kerry Becker,Sault Ste. Marie,West,2015,161590.11,92493.88,6564.54,56863.36,1530.00,64957.89
+46,1996-01-30,10,4,1,0,Production Technician - WC60,19432,S,F, Kerry Becker,Sault Ste. Marie,West,2016,137956.72,94201.99,7157.65,27937.29,1530.00,36624.94
+46,1996-01-30,10,4,1,0,Production Technician - WC60,19432,S,F, Kerry Becker,Sault Ste. Marie,West,2017,151987.17,96534.79,7863.97,40199.54,1530.00,49593.50
+47,2000-06-09,4,3,1,0,Production Supervisor - WC10,25039,S,F, Angelica Kelley,Pickering,East,2012,62602.38,60194.39,2407.99,0.00,0.00,2407.99
+47,2000-06-09,4,3,1,0,Production Supervisor - WC10,25039,S,F, Angelica Kelley,Pickering,East,2013,75649.94,68582.28,2795.92,3929.47,342.26,7067.65
+47,2000-06-09,4,3,1,0,Production Supervisor - WC10,25039,S,F, Angelica Kelley,Pickering,East,2014,91177.68,74220.49,3400.33,11147.41,0.00,14547.74
+47,2000-06-09,4,3,1,0,Production Supervisor - WC10,25039,S,F, Angelica Kelley,Pickering,East,2015,101081.92,81451.37,3573.26,1299.69,957.49,5830.45
+47,2000-06-09,4,3,1,0,Production Supervisor - WC10,25039,S,F, Angelica Kelley,Pickering,East,2016,91598.59,90068.59,0.00,0.00,1530.00,1530.00
+47,2000-06-09,4,3,1,0,Production Supervisor - WC10,25039,S,F, Angelica Kelley,Pickering,East,2017,97411.90,92276.81,0.00,0.00,1530.00,1530.00
+48,2002-11-12,3,4,1,0,Production Technician - WC10,33077,M,F, Carol Strickland,Port Perry,East,2012,1502.12,1502.12,0.00,0.00,0.00,0.00
+49,1999-06-20,1,4,1,0,Production Technician - WC10,19414,S,F, Sylvia Carter,Gravenhurst,East,2012,68200.11,65593.17,2295.84,0.00,311.10,2606.94
+49,1999-06-20,1,4,1,0,Production Technician - WC10,19414,S,F, Sylvia Carter,Gravenhurst,East,2013,53802.66,31535.36,1236.25,0.00,91.80,1328.05
+50,2000-12-17,9,4,1,0,Production Technician - WC10,28454,M,F, Hannah Jackson,Sudbury,West,2012,3635.28,3635.28,0.00,0.00,0.00,0.00
+51,1995-12-08,10,4,1,0,Production Technician - WC10,24848,S,F, Sheryl Bridges,Sault Ste. Marie,West,2012,87010.13,81795.33,4153.23,501.60,559.98,5214.80
+51,1995-12-08,10,4,1,0,Production Technician - WC10,24848,S,F, Sheryl Bridges,Sault Ste. Marie,West,2013,87718.14,82219.95,4223.20,0.00,1275.00,5498.20
+51,1995-12-08,10,4,1,0,Production Technician - WC10,24848,S,F, Sheryl Bridges,Sault Ste. Marie,West,2014,92299.82,65779.10,4240.31,0.00,11515.23,15755.54
+52,2003-08-28,2,4,1,0,Production Technician - WC10,30360,M,F, Katie Gomez,Bracebridge,East,2012,113245.96,92297.28,9229.80,8264.89,371.35,17866.03
+52,2003-08-28,2,4,1,0,Production Technician - WC10,30360,M,F, Katie Gomez,Bracebridge,East,2013,89548.23,79278.17,7927.87,1606.98,735.20,10270.04
+52,2003-08-28,2,4,1,0,Production Technician - WC10,30360,M,F, Katie Gomez,Bracebridge,East,2014,105975.24,91559.35,9156.02,305.20,1902.62,11363.84
+52,2003-08-28,2,4,1,0,Production Technician - WC10,30360,M,F, Katie Gomez,Bracebridge,East,2015,113415.48,95725.10,9572.62,0.00,5099.99,14672.61
+52,2003-08-28,2,4,1,0,Production Technician - WC10,30360,M,F, Katie Gomez,Bracebridge,East,2016,109192.18,95785.10,9578.64,301.78,461.77,10342.19
+52,2003-08-28,2,4,1,0,Production Technician - WC10,30360,M,F, Katie Gomez,Bracebridge,East,2017,110818.16,97697.49,9769.85,0.00,209.43,9979.27
+53,2000-12-26,9,4,1,0,Production Technician - WC10,19772,M,F, Wendy Bradley,Sudbury,West,2014,1718.70,1718.70,0.00,0.00,0.00,0.00
+54,2000-04-22,5,4,1,0,Production Technician - WC10,23373,M,F, Sophia Wilkins,Bronte,East,2017,1264.80,1264.80,0.00,0.00,0.00,0.00
+55,1998-09-20,9,3,1,0,Production Supervisor - WC50,21458,M,F, Teri Dunn,Sudbury,West,2012,12309.74,12309.74,0.00,0.00,0.00,0.00
+55,1998-09-20,9,3,1,0,Production Supervisor - WC50,21458,M,F, Teri Dunn,Sudbury,West,2013,18274.89,18274.89,0.00,0.00,0.00,0.00
+55,1998-09-20,9,3,1,0,Production Supervisor - WC50,21458,M,F, Teri Dunn,Sudbury,West,2014,40782.01,39474.97,0.00,147.92,1159.12,1307.04
+56,1998-03-29,9,4,1,0,Production Technician - WC50,32759,M,F, Cynthia Murphy,Sudbury,West,2015,53295.00,53295.00,0.00,0.00,0.00,0.00
+56,1998-03-29,9,4,1,0,Production Technician - WC50,32759,M,F, Cynthia Murphy,Sudbury,West,2016,57096.53,56951.88,0.00,144.65,0.00,144.65
+56,1998-03-29,9,4,1,0,Production Technician - WC50,32759,M,F, Cynthia Murphy,Sudbury,West,2017,62956.22,62290.77,0.00,308.45,357.00,665.45
+57,1996-12-19,7,4,1,0,Production Technician - WC50,33961,S,F, Kristin Maxwell,Brantford,West,2016,53888.83,53049.18,0.00,839.65,0.00,839.65
+57,1996-12-19,7,4,1,0,Production Technician - WC50,33961,S,F, Kristin Maxwell,Brantford,West,2017,45736.02,43470.03,0.00,1168.54,0.00,1168.54
+58,1995-12-22,3,4,1,0,Production Technician - WC50,29973,M,F, Terri Ellis,Port Perry,East,2012,84902.16,68026.99,3061.47,0.00,559.98,3621.45
+58,1995-12-22,3,4,1,0,Production Technician - WC50,29973,M,F, Terri Ellis,Port Perry,East,2013,75542.54,70157.36,1893.72,0.00,0.00,1893.72
+58,1995-12-22,3,4,1,0,Production Technician - WC50,29973,M,F, Terri Ellis,Port Perry,East,2014,76136.42,74697.20,0.00,0.00,0.00,0.00
+58,1995-12-22,3,4,1,0,Production Technician - WC50,29973,M,F, Terri Ellis,Port Perry,East,2015,82841.47,77380.71,0.00,0.00,980.92,980.92
+58,1995-12-22,3,4,1,0,Production Technician - WC50,29973,M,F, Terri Ellis,Port Perry,East,2016,85062.47,78943.08,0.00,0.00,2295.00,2295.00
+58,1995-12-22,3,4,1,0,Production Technician - WC50,29973,M,F, Terri Ellis,Port Perry,East,2017,85246.47,80950.43,0.00,0.00,1530.00,1530.00
+59,1997-10-10,5,4,1,0,Production Technician - WC50,21671,S,F, Cecilia Hubbard,Bronte,East,2012,114106.06,81214.33,3813.39,27908.57,1169.78,32891.74
+59,1997-10-10,5,4,1,0,Production Technician - WC50,21671,S,F, Cecilia Hubbard,Bronte,East,2013,119662.62,78525.85,4229.01,34143.88,2763.85,41136.74
+59,1997-10-10,5,4,1,0,Production Technician - WC50,21671,S,F, Cecilia Hubbard,Bronte,East,2014,119967.18,79531.78,4680.94,32864.59,2889.86,40435.40
+59,1997-10-10,5,4,1,0,Production Technician - WC50,21671,S,F, Cecilia Hubbard,Bronte,East,2015,110227.95,80925.21,5167.87,21234.21,2900.67,29302.74
+59,1997-10-10,5,4,1,0,Production Technician - WC50,21671,S,F, Cecilia Hubbard,Bronte,East,2016,121341.06,82432.97,5676.13,30106.42,3125.54,38908.08
+59,1997-10-10,5,4,1,0,Production Technician - WC50,21671,S,F, Cecilia Hubbard,Bronte,East,2017,126805.76,84969.66,6275.75,32709.67,2850.68,41836.10
+60,2001-08-29,3,4,1,0,Production Technician - WC50,33662,S,F, Kristine Burns,Port Perry,East,2015,5906.83,5906.83,0.00,0.00,0.00,0.00
+60,2001-08-29,3,4,1,0,Production Technician - WC50,33662,S,F, Kristine Burns,Port Perry,East,2016,1335.18,1335.18,0.00,0.00,0.00,0.00
+61,2002-04-24,4,4,1,0,Production Technician - WC50,28862,S,F, Eula Young,Pickering,East,2017,4291.66,4291.66,0.00,0.00,0.00,0.00
+62,2003-04-18,4,3,1,0,Production Supervisor - WC60,29867,M,F, Stephanie Peterson,Pickering,East,2017,14116.80,14116.80,0.00,0.00,0.00,0.00
+63,2003-06-09,8,4,1,0,Production Technician - WC60,32681,S,F, Jenny Rose,London,West,2012,109951.83,96912.19,7753.11,1980.91,127.50,9861.52
+63,2003-06-09,8,4,1,0,Production Technician - WC60,32681,S,F, Jenny Rose,London,West,2013,107833.58,96751.26,7777.32,0.00,127.50,7904.82
+63,2003-06-09,8,4,1,0,Production Technician - WC60,32681,S,F, Jenny Rose,London,West,2014,108270.22,96693.62,8257.51,0.00,127.50,8385.01
+63,2003-06-09,8,4,1,0,Production Technician - WC60,32681,S,F, Jenny Rose,London,West,2015,120683.69,102547.86,9268.62,0.00,5649.31,14917.93
+63,2003-06-09,8,4,1,0,Production Technician - WC60,32681,S,F, Jenny Rose,London,West,2016,116564.45,102829.53,9788.95,0.00,663.82,10452.77
+63,2003-06-09,8,4,1,0,Production Technician - WC60,32681,S,F, Jenny Rose,London,West,2017,119134.52,105115.31,10511.63,0.00,127.50,10639.13
+64,1996-11-17,7,4,1,0,Production Technician - WC60,22185,S,F, Cheryl Jordan,Brantford,West,2016,1520.82,1520.82,0.00,0.00,0.00,0.00
+65,2003-02-27,6,4,1,0,Production Technician - WC60,20894,M,F, Ann Bradley,Burlington,West,2012,73854.72,72317.62,0.00,0.00,0.00,0.00
+65,2003-02-27,6,4,1,0,Production Technician - WC60,20894,M,F, Ann Bradley,Burlington,West,2013,72011.12,72011.12,0.00,0.00,0.00,0.00
+65,2003-02-27,6,4,1,0,Production Technician - WC60,20894,M,F, Ann Bradley,Burlington,West,2014,72868.64,71738.21,0.00,0.00,1130.43,1130.43
+65,2003-02-27,6,4,1,0,Production Technician - WC60,20894,M,F, Ann Bradley,Burlington,West,2015,78273.61,75003.23,0.00,0.00,3270.38,3270.38
+65,2003-02-27,6,4,1,0,Production Technician - WC60,20894,M,F, Ann Bradley,Burlington,West,2016,75903.06,75049.65,523.93,0.00,329.47,853.40
+65,2003-02-27,6,4,1,0,Production Technician - WC60,20894,M,F, Ann Bradley,Burlington,West,2017,81403.40,76547.89,2386.05,0.00,153.65,2539.70
+66,1998-08-29,6,4,1,0,Production Technician - WC60,32992,S,F, Andrea Morales,Burlington,West,2012,86299.36,72317.76,2892.80,10709.16,379.64,13981.61
+66,1998-08-29,6,4,1,0,Production Technician - WC60,32992,S,F, Andrea Morales,Burlington,West,2013,86901.22,72197.96,3217.96,6576.84,341.70,10136.49
+66,1998-08-29,6,4,1,0,Production Technician - WC60,32992,S,F, Andrea Morales,Burlington,West,2014,99658.73,72227.97,3528.56,18625.02,688.41,22841.98
+66,1998-08-29,6,4,1,0,Production Technician - WC60,32992,S,F, Andrea Morales,Burlington,West,2015,100236.54,77545.11,4176.38,11439.70,4646.32,20262.40
+66,1998-08-29,6,4,1,0,Production Technician - WC60,32992,S,F, Andrea Morales,Burlington,West,2016,95901.57,82985.52,4887.13,4916.59,341.70,10145.42
+66,1998-08-29,6,4,1,0,Production Technician - WC60,32992,S,F, Andrea Morales,Burlington,West,2017,101606.12,86274.99,5510.23,6787.01,341.70,12638.94
+67,2000-09-16,5,4,1,0,Production Technician - WC60,33316,S,F, Julie Buchanan,Bronte,East,2013,3087.54,3087.54,0.00,0.00,0.00,0.00
+67,2000-09-16,5,4,1,0,Production Technician - WC60,33316,S,F, Julie Buchanan,Bronte,East,2014,2973.30,2973.30,0.00,0.00,0.00,0.00
+68,1999-05-11,4,4,1,0,Production Technician - WC60,20089,S,F, Dorothy Hudson,Pickering,East,2014,51852.90,45397.38,0.00,4352.36,2103.16,6455.52
+68,1999-05-11,4,4,1,0,Production Technician - WC60,20089,S,F, Dorothy Hudson,Pickering,East,2015,76945.19,54356.85,0.00,15426.30,4940.48,20366.78
+68,1999-05-11,4,4,1,0,Production Technician - WC60,20089,S,F, Dorothy Hudson,Pickering,East,2016,70109.16,57737.01,0.00,10019.18,2352.97,12372.15
+68,1999-05-11,4,4,1,0,Production Technician - WC60,20089,S,F, Dorothy Hudson,Pickering,East,2017,81798.22,67714.89,0.00,8965.66,1568.07,10533.72
+69,1997-12-27,5,4,1,0,Production Technician - WC60,23326,S,F, Olive Townsend,Bronte,East,2012,3093.66,3093.66,0.00,0.00,0.00,0.00
+69,1997-12-27,5,4,1,0,Production Technician - WC60,23326,S,F, Olive Townsend,Bronte,East,2013,3414.96,3414.96,0.00,0.00,0.00,0.00
+70,2002-09-29,3,4,1,0,Production Technician - WC60,20816,M,F, Constance Davidson,Port Perry,East,2014,2906.62,2903.18,0.00,3.45,0.00,3.45
+70,2002-09-29,3,4,1,0,Production Technician - WC60,20816,M,F, Constance Davidson,Port Perry,East,2015,934.07,934.07,0.00,0.00,0.00,0.00
+71,1997-03-27,1,3,1,0,Production Supervisor - WC30,21417,S,F, Brittany Simmons,Gravenhurst,East,2017,1846.20,1846.20,0.00,0.00,0.00,0.00
+72,2001-12-29,9,4,1,0,Production Technician - WC30,23369,M,F, Lila Ross,Sudbury,West,2012,6529.26,6529.26,0.00,0.00,0.00,0.00
+72,2001-12-29,9,4,1,0,Production Technician - WC30,23369,M,F, Lila Ross,Sudbury,West,2013,9914.91,9914.91,0.00,0.00,0.00,0.00
+72,2001-12-29,9,4,1,0,Production Technician - WC30,23369,M,F, Lila Ross,Sudbury,West,2014,11389.32,11389.32,0.00,0.00,0.00,0.00
+72,2001-12-29,9,4,1,0,Production Technician - WC30,23369,M,F, Lila Ross,Sudbury,West,2015,6450.48,6450.48,0.00,0.00,0.00,0.00
+72,2001-12-29,9,4,1,0,Production Technician - WC30,23369,M,F, Lila Ross,Sudbury,West,2017,2052.75,2052.75,0.00,0.00,0.00,0.00
+73,2003-03-28,1,4,1,0,Production Technician - WC30,22440,M,F, Brittany Adkins,Gravenhurst,East,2017,2292.45,2292.45,0.00,0.00,0.00,0.00
+74,1997-12-15,6,4,1,0,Production Technician - WC30,23919,S,F, Kristy Wilson,Burlington,West,2017,6476.49,6476.49,0.00,0.00,0.00,0.00
+75,2002-10-20,10,4,1,0,Production Technician - WC30,17459,S,F, Ernestine Boyd,Sault Ste. Marie,West,2016,42344.94,41640.66,0.00,0.00,0.00,0.00
+76,1997-07-16,10,4,1,0,Production Technician - WC30,34519,M,F, Emma Farmer,Sault Ste. Marie,West,2015,10104.30,10010.42,0.00,93.88,0.00,93.88
+76,1997-07-16,10,4,1,0,Production Technician - WC30,34519,M,F, Emma Farmer,Sault Ste. Marie,West,2016,46202.93,45008.02,0.00,583.60,611.31,1194.91
+76,1997-07-16,10,4,1,0,Production Technician - WC30,34519,M,F, Emma Farmer,Sault Ste. Marie,West,2017,54760.76,52590.49,0.00,2042.77,127.50,2170.27
+77,2000-12-14,5,4,1,0,Production Technician - WC30,18868,M,F, Velma Rose,Bronte,East,2017,1826.82,1826.82,0.00,0.00,0.00,0.00
+78,2000-08-16,7,3,1,0,Production Supervisor - WC40,27398,M,F, Gayle Yates,Brantford,West,2012,15930.26,15930.26,0.00,0.00,0.00,0.00
+78,2000-08-16,7,3,1,0,Production Supervisor - WC40,27398,M,F, Gayle Yates,Brantford,West,2013,6864.07,6572.42,0.00,0.00,0.00,0.00
+79,1996-12-08,1,4,1,0,Production Technician - WC40,27247,M,F, Juanita Cook,Gravenhurst,East,2014,3868.35,3868.35,0.00,0.00,0.00,0.00
+79,1996-12-08,1,4,1,0,Production Technician - WC40,27247,M,F, Juanita Cook,Gravenhurst,East,2015,3687.30,3687.30,0.00,0.00,0.00,0.00
+80,2004-01-12,1,4,1,0,Production Technician - WC40,30472,S,F, Karla Caldwell,Gravenhurst,East,2016,334.05,334.05,0.00,0.00,0.00,0.00
+80,2004-01-12,1,4,1,0,Production Technician - WC40,30472,S,F, Karla Caldwell,Gravenhurst,East,2017,2718.30,2718.30,0.00,0.00,0.00,0.00
+81,1997-12-16,10,4,1,0,Production Technician - WC40,26290,S,F, Marguerite Dean,Sault Ste. Marie,West,2012,77712.46,61227.42,4592.22,8172.21,408.47,13172.90
+81,1997-12-16,10,4,1,0,Production Technician - WC40,26290,S,F, Marguerite Dean,Sault Ste. Marie,West,2013,76631.22,60769.10,4838.22,8434.49,82.40,13355.10
+81,1997-12-16,10,4,1,0,Production Technician - WC40,26290,S,F, Marguerite Dean,Sault Ste. Marie,West,2014,78075.97,60585.00,5126.65,8555.20,1157.93,14839.79
+81,1997-12-16,10,4,1,0,Production Technician - WC40,26290,S,F, Marguerite Dean,Sault Ste. Marie,West,2015,82482.26,63230.35,5654.19,8577.68,3045.12,17276.98
+81,1997-12-16,10,4,1,0,Production Technician - WC40,26290,S,F, Marguerite Dean,Sault Ste. Marie,West,2016,88042.77,64190.77,6061.95,12665.44,1924.66,20652.05
+81,1997-12-16,10,4,1,0,Production Technician - WC40,26290,S,F, Marguerite Dean,Sault Ste. Marie,West,2017,87905.86,69172.33,6879.22,8130.30,0.00,15009.51
+82,1997-12-22,7,4,1,0,Production Technician - WC40,22760,S,F, Jessica Tran,Brantford,West,2012,122431.54,89225.75,8922.65,23900.63,382.50,33205.78
+82,1997-12-22,7,4,1,0,Production Technician - WC40,22760,S,F, Jessica Tran,Brantford,West,2013,132738.75,89751.37,8975.26,32482.11,1530.00,42987.37
+82,1997-12-22,7,4,1,0,Production Technician - WC40,22760,S,F, Jessica Tran,Brantford,West,2014,144782.93,90901.43,9090.27,43261.23,1530.00,53881.50
+82,1997-12-22,7,4,1,0,Production Technician - WC40,22760,S,F, Jessica Tran,Brantford,West,2015,150113.68,92494.02,9249.51,46840.14,1530.00,57619.66
+82,1997-12-22,7,4,1,0,Production Technician - WC40,22760,S,F, Jessica Tran,Brantford,West,2016,136054.96,94222.41,9422.37,30880.18,1530.00,41832.56
+82,1997-12-22,7,4,1,0,Production Technician - WC40,22760,S,F, Jessica Tran,Brantford,West,2017,112839.22,86986.89,8698.80,11934.12,1530.00,22162.93
+83,1998-07-04,2,4,1,0,Production Technician - WC40,33211,M,M, Israel Reed,Bracebridge,East,2012,98309.48,89225.65,5902.77,2798.55,382.50,9083.82
+83,1998-07-04,2,4,1,0,Production Technician - WC40,33211,M,M, Israel Reed,Bracebridge,East,2013,103229.77,89742.89,6386.29,5570.59,1530.00,13486.88
+83,1998-07-04,2,4,1,0,Production Technician - WC40,33211,M,M, Israel Reed,Bracebridge,East,2014,99625.02,90901.94,6905.83,287.25,1530.00,8723.08
+83,1998-07-04,2,4,1,0,Production Technician - WC40,33211,M,M, Israel Reed,Bracebridge,East,2015,22316.54,4931.17,394.51,0.00,382.50,777.01
+84,2000-03-31,5,4,1,0,Production Technician - WC40,18897,M,M, Peter Frazier,Bronte,East,2014,19709.95,19457.87,0.00,0.00,252.08,252.08
+84,2000-03-31,5,4,1,0,Production Technician - WC40,18897,M,M, Peter Frazier,Bronte,East,2015,54631.88,54286.36,0.00,0.00,345.53,345.53
+84,2000-03-31,5,4,1,0,Production Technician - WC40,18897,M,M, Peter Frazier,Bronte,East,2016,59391.65,57657.24,0.00,0.00,1734.41,1734.41
+84,2000-03-31,5,4,1,0,Production Technician - WC40,18897,M,M, Peter Frazier,Bronte,East,2017,66906.53,63430.21,0.00,568.15,2908.17,3476.32
+85,2001-03-29,10,4,1,0,Production Technician - WC40,31657,S,M, Geoffrey Poole,Sault Ste. Marie,West,2012,61092.71,60965.21,0.00,0.00,127.50,127.50
+85,2001-03-29,10,4,1,0,Production Technician - WC40,31657,S,M, Geoffrey Poole,Sault Ste. Marie,West,2013,64270.60,64143.10,0.00,0.00,127.50,127.50
+85,2001-03-29,10,4,1,0,Production Technician - WC40,31657,S,M, Geoffrey Poole,Sault Ste. Marie,West,2014,72078.94,72078.94,0.00,0.00,0.00,0.00
+85,2001-03-29,10,4,1,0,Production Technician - WC40,31657,S,M, Geoffrey Poole,Sault Ste. Marie,West,2015,81831.61,78412.59,0.00,0.00,3419.02,3419.02
+85,2001-03-29,10,4,1,0,Production Technician - WC40,31657,S,M, Geoffrey Poole,Sault Ste. Marie,West,2016,78658.21,78620.00,0.00,0.00,38.21,38.21
+85,2001-03-29,10,4,1,0,Production Technician - WC40,31657,S,M, Geoffrey Poole,Sault Ste. Marie,West,2017,82078.48,80375.94,1127.79,574.75,0.00,1702.54
+86,2003-06-08,9,4,1,0,Production Technician - WC40,19540,M,M, Jonathon Long,Sudbury,West,2014,1717.17,1717.17,0.00,0.00,0.00,0.00
+87,2002-06-03,5,3,1,0,Production Supervisor - WC10,23111,M,M, Milton Mccarthy,Bronte,East,2012,6019.63,5284.11,0.00,735.52,0.00,735.52
+87,2002-06-03,5,3,1,0,Production Supervisor - WC10,23111,M,M, Milton Mccarthy,Bronte,East,2013,5778.05,5042.52,0.00,735.52,0.00,735.52
+87,2002-06-03,5,3,1,0,Production Supervisor - WC10,23111,M,M, Milton Mccarthy,Bronte,East,2014,5291.32,4544.80,0.00,746.52,0.00,746.52
+87,2002-06-03,5,3,1,0,Production Supervisor - WC10,23111,M,M, Milton Mccarthy,Bronte,East,2015,1990.66,1244.15,0.00,746.52,0.00,746.52
+88,2002-01-18,8,4,1,0,Production Technician - WC10,28681,S,F, Tina Abbott,London,West,2017,6385.20,6385.20,0.00,0.00,0.00,0.00
+89,1998-04-29,9,4,1,0,Production Technician - WC10,24729,S,M, Kim Spencer,Sudbury,West,2013,2470.95,2470.95,0.00,0.00,0.00,0.00
+89,1998-04-29,9,4,1,0,Production Technician - WC10,24729,S,M, Kim Spencer,Sudbury,West,2014,10560.06,10560.06,0.00,0.00,0.00,0.00
+90,1998-12-25,6,4,1,0,Production Technician - WC10,18062,S,F, Sadie Hill,Burlington,West,2017,2264.40,2264.40,0.00,0.00,0.00,0.00
+91,2002-06-07,1,4,1,0,Production Technician - WC10,29762,S,F, Lela Newman,Gravenhurst,East,2016,34916.64,32362.15,0.00,2249.73,304.76,2554.49
+91,2002-06-07,1,4,1,0,Production Technician - WC10,29762,S,F, Lela Newman,Gravenhurst,East,2017,100600.95,55171.01,0.00,38709.49,4382.60,43092.09
+92,1996-02-09,6,4,1,0,Production Technician - WC10,16941,M,M, Jesse Morales,Burlington,West,2012,85281.24,78963.98,6317.26,0.00,0.00,6317.26
+92,1996-02-09,6,4,1,0,Production Technician - WC10,16941,M,M, Jesse Morales,Burlington,West,2013,85866.00,79393.01,6472.99,0.00,0.00,6472.99
+92,1996-02-09,6,4,1,0,Production Technician - WC10,16941,M,M, Jesse Morales,Burlington,West,2014,87296.50,79092.76,6845.27,0.00,1358.47,8203.74
+92,1996-02-09,6,4,1,0,Production Technician - WC10,16941,M,M, Jesse Morales,Burlington,West,2015,94190.57,82691.67,7568.79,0.00,3930.12,11498.91
+92,1996-02-09,6,4,1,0,Production Technician - WC10,16941,M,M, Jesse Morales,Burlington,West,2016,91882.47,82152.36,7930.97,0.00,1799.14,9730.11
+92,1996-02-09,6,4,1,0,Production Technician - WC10,16941,M,M, Jesse Morales,Burlington,West,2017,92627.33,82152.79,8215.37,0.00,2259.18,10474.54
+93,2003-12-15,8,3,1,0,Production Supervisor - WC50,29439,S,M, Allan Rice,London,West,2013,3176.68,3176.68,0.00,0.00,0.00,0.00
+93,2003-12-15,8,3,1,0,Production Supervisor - WC50,29439,S,M, Allan Rice,London,West,2014,4958.62,4958.62,0.00,0.00,0.00,0.00
+94,1998-09-22,10,4,1,0,Production Technician - WC50,31268,M,M, Ervin Stone,Sault Ste. Marie,West,2012,69157.48,64012.92,3200.70,0.00,413.10,3613.80
+94,1998-09-22,10,4,1,0,Production Technician - WC50,31268,M,M, Ervin Stone,Sault Ste. Marie,West,2013,70280.89,64760.11,3338.87,26.14,413.10,3778.11
+94,1998-09-22,10,4,1,0,Production Technician - WC50,31268,M,M, Ervin Stone,Sault Ste. Marie,West,2014,70960.14,65445.40,3700.96,0.01,413.10,4114.07
+94,1998-09-22,10,4,1,0,Production Technician - WC50,31268,M,M, Ervin Stone,Sault Ste. Marie,West,2015,78858.84,72104.52,4441.98,0.00,770.10,5212.08
+94,1998-09-22,10,4,1,0,Production Technician - WC50,31268,M,M, Ervin Stone,Sault Ste. Marie,West,2016,83378.13,76208.05,5072.82,88.47,413.10,5574.39
+94,1998-09-22,10,4,1,0,Production Technician - WC50,31268,M,M, Ervin Stone,Sault Ste. Marie,West,2017,86722.06,78439.47,5613.10,613.38,413.10,6639.58
+95,1999-01-22,7,4,1,0,Production Technician - WC50,17724,M,M, Ruben Lee,Brantford,West,2015,10781.16,10398.66,0.00,0.00,382.50,382.50
+96,1997-01-26,8,4,1,0,Production Technician - WC50,30111,M,F, Shirley Morgan,London,West,2012,7516.87,7516.87,0.00,0.00,0.00,0.00
+96,1997-01-26,8,4,1,0,Production Technician - WC50,30111,M,F, Shirley Morgan,London,West,2013,8935.20,8935.20,0.00,0.00,0.00,0.00
+96,1997-01-26,8,4,1,0,Production Technician - WC50,30111,M,F, Shirley Morgan,London,West,2014,7869.30,7869.30,0.00,0.00,0.00,0.00
+96,1997-01-26,8,4,1,0,Production Technician - WC50,30111,M,F, Shirley Morgan,London,West,2015,3590.40,3590.40,0.00,0.00,0.00,0.00
+97,2000-09-25,7,4,1,0,Production Technician - WC50,34442,S,M, Andres Gibbs,Brantford,West,2015,35925.99,33056.66,0.00,2636.63,232.70,2869.33
+97,2000-09-25,7,4,1,0,Production Technician - WC50,34442,S,M, Andres Gibbs,Brantford,West,2016,87065.54,59211.57,0.00,19598.39,2581.35,22179.75
+97,2000-09-25,7,4,1,0,Production Technician - WC50,34442,S,M, Andres Gibbs,Brantford,West,2017,108573.14,66734.53,0.00,32407.44,3751.80,36159.24
+98,1999-06-20,5,4,1,0,Production Technician - WC50,30049,M,M, Frank Washington,Bronte,East,2012,161102.13,113100.17,11310.18,24213.88,4484.37,40008.43
+98,1999-06-20,5,4,1,0,Production Technician - WC50,30049,M,M, Frank Washington,Bronte,East,2013,149386.81,21750.04,2175.04,3589.14,382.50,6146.67
+99,1998-01-14,3,4,1,0,Production Technician - WC50,30765,S,M, Zachary Graves,Port Perry,East,2012,134388.26,97572.98,8293.86,0.00,2395.98,10689.84
+99,1998-01-14,3,4,1,0,Production Technician - WC50,30765,S,M, Zachary Graves,Port Perry,East,2013,114189.20,103032.44,5132.85,0.00,1071.00,6203.85
+99,1998-01-14,3,4,1,0,Production Technician - WC50,30765,S,M, Zachary Graves,Port Perry,East,2014,118398.08,112437.20,0.00,0.00,0.00,0.00
+99,1998-01-14,3,4,1,0,Production Technician - WC50,30765,S,M, Zachary Graves,Port Perry,East,2015,121294.50,115289.87,0.00,0.00,1020.00,1020.00
+99,1998-01-14,3,4,1,0,Production Technician - WC50,30765,S,M, Zachary Graves,Port Perry,East,2016,126656.11,118819.05,0.00,0.00,1530.00,1530.00
+99,1998-01-14,3,4,1,0,Production Technician - WC50,30765,S,M, Zachary Graves,Port Perry,East,2017,131998.38,123344.09,0.00,0.00,1530.00,1530.00
+100,2002-07-07,6,4,1,0,Production Technician - WC50,21107,M,M, Chris Johnston,Burlington,West,2012,158487.55,158487.55,0.00,0.00,0.00,0.00
+100,2002-07-07,6,4,1,0,Production Technician - WC50,21107,M,M, Chris Johnston,Burlington,West,2013,161839.68,161839.68,0.00,0.00,0.00,0.00
+100,2002-07-07,6,4,1,0,Production Technician - WC50,21107,M,M, Chris Johnston,Burlington,West,2014,164257.88,164257.88,0.00,0.00,0.00,0.00
+100,2002-07-07,6,4,1,0,Production Technician - WC50,21107,M,M, Chris Johnston,Burlington,West,2015,166554.78,165537.57,0.00,0.00,1017.21,1017.21
+100,2002-07-07,6,4,1,0,Production Technician - WC50,21107,M,M, Chris Johnston,Burlington,West,2016,167760.95,166230.95,0.00,0.00,1530.00,1530.00
+100,2002-07-07,6,4,1,0,Production Technician - WC50,21107,M,M, Chris Johnston,Burlington,West,2017,99690.76,98160.76,0.00,0.00,1530.00,1530.00
+101,1997-10-15,9,4,1,0,Production Technician - WC50,28991,M,M, Leland Boyd,Sudbury,West,2012,87426.12,68891.14,0.00,7345.42,9795.43,17140.85
+101,1997-10-15,9,4,1,0,Production Technician - WC50,28991,M,M, Leland Boyd,Sudbury,West,2013,85090.28,70349.49,0.00,4431.32,8816.59,13247.91
+101,1997-10-15,9,4,1,0,Production Technician - WC50,28991,M,M, Leland Boyd,Sudbury,West,2014,86877.50,74804.54,0.00,3864.29,8208.67,12072.96
+101,1997-10-15,9,4,1,0,Production Technician - WC50,28991,M,M, Leland Boyd,Sudbury,West,2015,94835.22,83025.58,0.00,3480.83,8328.81,11809.64
+101,1997-10-15,9,4,1,0,Production Technician - WC50,28991,M,M, Leland Boyd,Sudbury,West,2016,97542.86,86553.91,0.00,2733.07,8255.88,10988.95
+101,1997-10-15,9,4,1,0,Production Technician - WC50,28991,M,M, Leland Boyd,Sudbury,West,2017,122401.02,95978.64,0.00,11003.48,15418.89,26422.38
+102,1999-06-18,10,3,1,0,Production Supervisor - WC10,18082,S,M, Myron Osborne,Sault Ste. Marie,West,2015,1560.60,1560.60,0.00,0.00,0.00,0.00
+102,1999-06-18,10,3,1,0,Production Supervisor - WC10,18082,S,M, Myron Osborne,Sault Ste. Marie,West,2016,10420.52,10420.52,0.00,0.00,0.00,0.00
+102,1999-06-18,10,3,1,0,Production Supervisor - WC10,18082,S,M, Myron Osborne,Sault Ste. Marie,West,2017,15485.68,15485.68,0.00,0.00,0.00,0.00
+103,1998-06-07,5,4,1,0,Production Technician - WC10,25807,S,M, Felipe Strickland,Bronte,East,2016,71.40,71.40,0.00,0.00,0.00,0.00
+104,2003-08-03,7,4,1,0,Production Technician - WC10,18397,M,F, Laurie Lloyd,Brantford,West,2012,3359.88,3359.88,0.00,0.00,0.00,0.00
+105,2003-06-17,1,4,1,0,Production Technician - WC10,21605,S,M, Willard Tate,Gravenhurst,East,2015,2598.45,2598.45,0.00,0.00,0.00,0.00
+105,2003-06-17,1,4,1,0,Production Technician - WC10,21605,S,M, Willard Tate,Gravenhurst,East,2016,3712.80,3712.80,0.00,0.00,0.00,0.00
+106,1999-11-04,1,4,1,0,Production Technician - WC10,18981,S,M, Arturo Webster,Gravenhurst,East,2016,816.00,816.00,0.00,0.00,0.00,0.00
+107,2001-02-22,3,4,1,0,Production Technician - WC10,27377,M,M, Kyle Hill,Port Perry,East,2017,734.40,734.40,0.00,0.00,0.00,0.00
+108,2000-06-23,4,3,1,0,Production Supervisor - WC50,33296,S,M, Cedric Willis,Pickering,East,2012,72619.06,67216.34,3697.07,0.00,0.00,3697.07
+108,2000-06-23,4,3,1,0,Production Supervisor - WC50,33296,S,M, Cedric Willis,Pickering,East,2013,72128.99,66930.14,3770.86,0.00,357.00,4127.86
+108,2000-06-23,4,3,1,0,Production Supervisor - WC50,33296,S,M, Cedric Willis,Pickering,East,2014,73852.40,66675.94,4090.95,0.00,1475.95,5566.91
+108,2000-06-23,4,3,1,0,Production Supervisor - WC50,33296,S,M, Cedric Willis,Pickering,East,2015,83984.38,69710.53,4624.55,0.00,6015.18,10639.73
+108,2000-06-23,4,3,1,0,Production Supervisor - WC50,33296,S,M, Cedric Willis,Pickering,East,2016,102462.94,76449.69,1118.80,0.00,2142.97,3261.77
+108,2000-06-23,4,3,1,0,Production Supervisor - WC50,33296,S,M, Cedric Willis,Pickering,East,2017,81913.99,80383.99,0.00,0.00,1530.00,1530.00
+109,1996-12-27,6,4,1,0,Production Technician - WC50,20814,M,F, Tracey Hansen,Burlington,West,2013,1577.94,1577.94,0.00,0.00,0.00,0.00
+110,1998-04-14,3,4,1,0,Production Technician - WC50,23947,S,M, Ronald Webb,Port Perry,East,2012,69439.96,60966.00,6096.68,173.10,17.80,6287.59
+110,1998-04-14,3,4,1,0,Production Technician - WC50,23947,S,M, Ronald Webb,Port Perry,East,2013,69244.46,60769.09,6077.00,468.17,561.04,7106.21
+110,1998-04-14,3,4,1,0,Production Technician - WC50,23947,S,M, Ronald Webb,Port Perry,East,2014,71022.36,60599.76,6060.14,151.19,1859.35,8070.68
+110,1998-04-14,3,4,1,0,Production Technician - WC50,23947,S,M, Ronald Webb,Port Perry,East,2015,74047.42,63229.95,6323.14,274.08,3389.70,9986.93
+110,1998-04-14,3,4,1,0,Production Technician - WC50,23947,S,M, Ronald Webb,Port Perry,East,2016,73155.72,62817.58,6281.82,681.05,1381.98,8344.85
+110,1998-04-14,3,4,1,0,Production Technician - WC50,23947,S,M, Ronald Webb,Port Perry,East,2017,72164.13,62817.69,6281.80,0.00,1727.47,8009.27
+111,2000-07-31,5,4,1,0,Production Technician - WC50,19899,S,M, Ted Houston,Bronte,East,2012,14833.35,14833.35,0.00,0.00,0.00,0.00
+111,2000-07-31,5,4,1,0,Production Technician - WC50,19899,S,M, Ted Houston,Bronte,East,2013,15238.80,15238.80,0.00,0.00,0.00,0.00
+111,2000-07-31,5,4,1,0,Production Technician - WC50,19899,S,M, Ted Houston,Bronte,East,2014,15009.30,15009.30,0.00,0.00,0.00,0.00
+111,2000-07-31,5,4,1,0,Production Technician - WC50,19899,S,M, Ted Houston,Bronte,East,2015,841.50,841.50,0.00,0.00,0.00,0.00
+112,1997-05-03,1,4,1,0,Production Technician - WC50,17672,S,M, Enrique Ballard,Gravenhurst,East,2017,7655.10,7655.10,0.00,0.00,0.00,0.00
+113,2002-06-18,6,4,1,0,Production Technician - WC50,29952,M,F, Theresa Fowler,Burlington,West,2017,6457.88,6457.88,0.00,0.00,0.00,0.00
+114,2000-06-02,3,4,1,0,Production Technician - WC50,29694,M,M, Gustavo Lloyd,Port Perry,East,2016,12943.23,12803.86,0.00,0.00,139.37,139.37
+114,2000-06-02,3,4,1,0,Production Technician - WC50,29694,M,M, Gustavo Lloyd,Port Perry,East,2017,40145.44,40017.94,0.00,0.00,127.50,127.50
+115,1997-11-29,3,4,1,0,Production Technician - WC50,17167,S,F, Elaine Marsh,Port Perry,East,2012,93604.17,81794.91,3680.98,7266.52,559.98,11507.48
+115,1997-11-29,3,4,1,0,Production Technician - WC50,17167,S,F, Elaine Marsh,Port Perry,East,2013,102205.10,82196.30,3857.03,13642.16,1275.00,18774.19
+115,1997-11-29,3,4,1,0,Production Technician - WC50,17167,S,F, Elaine Marsh,Port Perry,East,2014,103956.67,83901.99,4035.04,12953.28,1530.00,18518.31
+115,1997-11-29,3,4,1,0,Production Technician - WC50,17167,S,F, Elaine Marsh,Port Perry,East,2015,111740.27,85328.49,4530.66,16444.44,2550.00,23525.10
+115,1997-11-29,3,4,1,0,Production Technician - WC50,17167,S,F, Elaine Marsh,Port Perry,East,2016,114965.85,87045.15,5057.06,20123.26,1530.00,26710.32
+115,1997-11-29,3,4,1,0,Production Technician - WC50,17167,S,F, Elaine Marsh,Port Perry,East,2017,115027.29,88991.27,5615.40,16859.36,1530.00,24004.75
+116,1995-11-10,2,4,1,0,Production Technician - WC50,25326,S,M, Archie Dennis,Bracebridge,East,2012,106880.69,85506.55,8550.79,12440.85,382.50,21374.14
+116,1995-11-10,2,4,1,0,Production Technician - WC50,25326,S,M, Archie Dennis,Bracebridge,East,2013,116792.27,86010.11,8601.15,16763.75,1530.00,26894.90
+116,1995-11-10,2,4,1,0,Production Technician - WC50,25326,S,M, Archie Dennis,Bracebridge,East,2014,116594.93,87111.85,8711.31,15859.14,1530.00,26100.45
+116,1995-11-10,2,4,1,0,Production Technician - WC50,25326,S,M, Archie Dennis,Bracebridge,East,2015,108679.39,88638.13,8863.87,9647.38,1530.00,20041.26
+116,1995-11-10,2,4,1,0,Production Technician - WC50,25326,S,M, Archie Dennis,Bracebridge,East,2016,97636.86,8951.56,895.16,769.25,382.50,2046.92
+117,2002-09-21,9,4,1,0,Production Technician - WC50,27408,M,M, Wilson Weber,Sudbury,West,2017,176509.47,174979.47,0.00,0.00,1530.00,1530.00
+118,1997-08-25,3,4,1,0,Production Technician - WC50,17066,M,M, Ross Watson,Port Perry,East,2012,131992.55,114245.05,8129.19,574.69,9043.63,17747.50
+118,1997-08-25,3,4,1,0,Production Technician - WC50,17066,M,M, Ross Watson,Port Perry,East,2013,140048.59,114611.45,8728.46,974.28,10250.39,19953.13
+118,1997-08-25,3,4,1,0,Production Technician - WC50,17066,M,M, Ross Watson,Port Perry,East,2014,139431.88,115658.81,9387.26,223.53,10333.02,19943.82
+118,1997-08-25,3,4,1,0,Production Technician - WC50,17066,M,M, Ross Watson,Port Perry,East,2015,147278.27,117119.40,10090.86,5944.00,10398.57,26433.43
+118,1997-08-25,3,4,1,0,Production Technician - WC50,17066,M,M, Ross Watson,Port Perry,East,2016,172345.83,94463.13,8522.16,3602.34,7791.56,19916.06
+119,2003-09-04,8,4,1,0,Production Technician - WC50,19298,S,M, Virgil Stokes,London,West,2015,562.20,787.09,0.00,0.00,-224.89,-224.89
+120,1998-05-09,2,4,1,0,Production Technician - WC50,32525,S,F, Sandra Huff,Bracebridge,East,2012,8284.81,8284.81,0.00,0.00,0.00,0.00
+120,1998-05-09,2,4,1,0,Production Technician - WC50,32525,S,F, Sandra Huff,Bracebridge,East,2013,3139.00,3139.00,0.00,0.00,0.00,0.00
+121,1999-03-17,1,3,1,0,Shipping and Receiving Supervisor,17447,S,M, Jimmie Knight,Gravenhurst,East,2012,80847.25,77163.93,0.00,2386.90,559.98,2946.88
+121,1999-03-17,1,3,1,0,Shipping and Receiving Supervisor,17447,S,M, Jimmie Knight,Gravenhurst,East,2013,75282.00,74006.99,0.00,0.00,1275.00,1275.00
+121,1999-03-17,1,3,1,0,Shipping and Receiving Supervisor,17447,S,M, Jimmie Knight,Gravenhurst,East,2014,86083.56,82611.81,0.00,1941.75,1530.00,3471.75
+121,1999-03-17,1,3,1,0,Shipping and Receiving Supervisor,17447,S,M, Jimmie Knight,Gravenhurst,East,2015,105684.18,88890.11,2166.71,13029.01,1530.00,16725.73
+121,1999-03-17,1,3,1,0,Shipping and Receiving Supervisor,17447,S,M, Jimmie Knight,Gravenhurst,East,2016,97541.45,91539.43,2980.07,1076.14,1530.00,5586.21
+121,1999-03-17,1,3,1,0,Shipping and Receiving Supervisor,17447,S,M, Jimmie Knight,Gravenhurst,East,2017,100510.97,93606.68,3491.66,1882.63,1530.00,6904.30
+122,2002-01-31,3,4,1,0,Stocker,33475,S,F, Silvia Warner,Port Perry,East,2015,979.20,979.20,0.00,0.00,0.00,0.00
+122,2002-01-31,3,4,1,0,Stocker,33475,S,F, Silvia Warner,Port Perry,East,2016,326.40,326.40,0.00,0.00,0.00,0.00
+123,1996-10-19,4,4,1,0,Shipping and Receiving Clerk,22383,M,M, Santos Butler,Pickering,East,2012,2286.99,2286.99,0.00,0.00,0.00,0.00
+124,2002-05-05,6,4,1,0,Stocker,22359,S,F, Edna Simon,Burlington,West,2012,104964.90,67422.23,4368.93,18736.90,11026.77,34132.60
+124,2002-05-05,6,4,1,0,Stocker,22359,S,F, Edna Simon,Burlington,West,2013,134587.38,78518.28,4787.13,46288.04,1530.00,52605.16
+124,2002-05-05,6,4,1,0,Stocker,22359,S,F, Edna Simon,Burlington,West,2014,105843.46,79531.72,5246.75,15967.20,1565.33,22779.28
+124,2002-05-05,6,4,1,0,Stocker,22359,S,F, Edna Simon,Burlington,West,2015,109584.60,80925.12,5743.41,17515.34,1780.14,25038.89
+124,2002-05-05,6,4,1,0,Stocker,22359,S,F, Edna Simon,Burlington,West,2016,126793.76,82419.29,6262.39,29924.27,2043.06,38229.72
+124,2002-05-05,6,4,1,0,Stocker,22359,S,F, Edna Simon,Burlington,West,2017,117096.77,84969.58,6880.42,23146.66,2100.11,32127.18
+125,1996-02-08,4,4,1,0,Shipping and Receiving Clerk,22715,M,M, Marty Williams,Pickering,East,2012,63325.22,57959.16,0.00,5087.11,278.95,5366.06
+125,1996-02-08,4,4,1,0,Shipping and Receiving Clerk,22715,M,M, Marty Williams,Pickering,East,2013,68482.98,59209.69,0.00,9273.30,0.00,9273.30
+125,1996-02-08,4,4,1,0,Shipping and Receiving Clerk,22715,M,M, Marty Williams,Pickering,East,2014,66826.52,62767.23,0.00,3430.16,0.00,3430.16
+125,1996-02-08,4,4,1,0,Shipping and Receiving Clerk,22715,M,M, Marty Williams,Pickering,East,2015,72820.99,66103.57,0.00,3835.11,2882.32,6717.42
+125,1996-02-08,4,4,1,0,Shipping and Receiving Clerk,22715,M,M, Marty Williams,Pickering,East,2016,75052.93,66291.38,231.89,8529.66,0.00,8761.55
+125,1996-02-08,4,4,1,0,Shipping and Receiving Clerk,22715,M,M, Marty Williams,Pickering,East,2017,79178.88,67768.65,2072.76,9337.47,0.00,11410.23
+126,2001-02-01,3,4,1,0,Stocker,20568,M,M, Darren Hopkins,Port Perry,East,2017,3108.45,3108.45,0.00,0.00,0.00,0.00
+127,1996-04-09,5,3,1,0,Production Supervisor - WC40,33846,S,M, Elbert Stevenson,Bronte,East,2013,2779.25,2779.25,0.00,0.00,0.00,0.00
+127,1996-04-09,5,3,1,0,Production Supervisor - WC40,33846,S,M, Elbert Stevenson,Bronte,East,2014,8248.23,8248.23,0.00,0.00,0.00,0.00
+128,1999-11-25,8,4,1,0,Production Technician - WC40,25614,S,M, Jason Gutierrez,London,West,2012,9378.09,9378.09,0.00,0.00,0.00,0.00
+128,1999-11-25,8,4,1,0,Production Technician - WC40,25614,S,M, Jason Gutierrez,London,West,2013,10333.62,10333.62,0.00,0.00,0.00,0.00
+128,1999-11-25,8,4,1,0,Production Technician - WC40,25614,S,M, Jason Gutierrez,London,West,2014,8243.64,8243.64,0.00,0.00,0.00,0.00
+129,2001-02-18,10,4,1,0,Production Technician - WC40,19113,S,M, Rafael Mcgee,Sault Ste. Marie,West,2012,9701.17,9701.17,0.00,0.00,0.00,0.00
+129,2001-02-18,10,4,1,0,Production Technician - WC40,19113,S,M, Rafael Mcgee,Sault Ste. Marie,West,2013,4984.23,4984.23,0.00,0.00,0.00,0.00
+129,2001-02-18,10,4,1,0,Production Technician - WC40,19113,S,M, Rafael Mcgee,Sault Ste. Marie,West,2014,9111.66,9111.66,0.00,0.00,0.00,0.00
+129,2001-02-18,10,4,1,0,Production Technician - WC40,19113,S,M, Rafael Mcgee,Sault Ste. Marie,West,2015,8812.80,8812.80,0.00,0.00,0.00,0.00
+129,2001-02-18,10,4,1,0,Production Technician - WC40,19113,S,M, Rafael Mcgee,Sault Ste. Marie,West,2016,10052.10,10052.10,0.00,0.00,0.00,0.00
+129,2001-02-18,10,4,1,0,Production Technician - WC40,19113,S,M, Rafael Mcgee,Sault Ste. Marie,West,2017,10355.04,10355.04,0.00,0.00,0.00,0.00
+130,1997-11-08,1,4,1,0,Production Technician - WC40,26818,S,M, Alfred Andrews,Gravenhurst,East,2017,50712.30,50712.30,0.00,0.00,0.00,0.00
+131,2000-09-27,3,4,1,0,Production Technician - WC40,17292,S,M, Hugo Mullins,Port Perry,East,2012,100734.47,77531.23,0.00,18882.20,621.50,19503.70
+131,2000-09-27,3,4,1,0,Production Technician - WC40,17292,S,M, Hugo Mullins,Port Perry,East,2013,108204.71,77911.77,0.00,23131.56,1846.35,24977.91
+131,2000-09-27,3,4,1,0,Production Technician - WC40,17292,S,M, Hugo Mullins,Port Perry,East,2014,117373.46,82760.24,1936.29,23446.03,2745.09,28127.40
+131,2000-09-27,3,4,1,0,Production Technician - WC40,17292,S,M, Hugo Mullins,Port Perry,East,2015,131947.44,85328.48,2889.11,34223.01,3708.23,40820.35
+131,2000-09-27,3,4,1,0,Production Technician - WC40,17292,S,M, Hugo Mullins,Port Perry,East,2016,129469.89,87035.21,3382.03,32518.48,1696.10,37596.61
+131,2000-09-27,3,4,1,0,Production Technician - WC40,17292,S,M, Hugo Mullins,Port Perry,East,2017,138260.98,88978.48,3902.68,35617.59,3420.48,42940.76
+132,2001-04-06,4,4,1,0,Production Technician - WC40,17513,M,F, Katrina Burke,Pickering,East,2012,96625.31,84330.62,5060.00,7107.20,127.50,12294.69
+132,2001-04-06,4,4,1,0,Production Technician - WC40,17513,M,F, Katrina Burke,Pickering,East,2013,103051.95,85332.66,5351.00,11883.77,484.50,17719.27
+132,2001-04-06,4,4,1,0,Production Technician - WC40,17513,M,F, Katrina Burke,Pickering,East,2014,104156.46,85979.03,5820.38,11872.56,484.50,18177.43
+132,2001-04-06,4,4,1,0,Production Technician - WC40,17513,M,F, Katrina Burke,Pickering,East,2015,118500.76,90772.44,6597.59,16748.43,4382.30,27728.32
+132,2001-04-06,4,4,1,0,Production Technician - WC40,17513,M,F, Katrina Burke,Pickering,East,2016,112799.96,91021.42,7073.70,14220.34,484.50,21778.54
+132,2001-04-06,4,4,1,0,Production Technician - WC40,17513,M,F, Katrina Burke,Pickering,East,2017,120374.23,93045.57,7696.73,19147.43,484.50,27328.66
+133,1995-11-03,8,4,1,0,Production Technician - WC40,24545,S,M, Bert Swanson,London,West,2015,6169.98,6169.98,0.00,0.00,0.00,0.00
+133,1995-11-03,8,4,1,0,Production Technician - WC40,24545,S,M, Bert Swanson,London,West,2016,6141.52,6107.85,0.00,33.67,0.00,33.67
+134,1998-07-27,2,3,1,0,Production Supervisor - WC20,30945,M,M, Karl Tucker,Bracebridge,East,2017,71.40,71.40,0.00,0.00,0.00,0.00
+135,1996-11-01,6,4,1,0,Production Technician - WC20,34117,M,M, Timmy Barnes,Burlington,West,2017,4510.03,4382.53,0.00,0.00,127.50,127.50
+136,2000-06-05,5,4,1,0,Production Technician - WC20,29688,M,M, Lee Foster,Bronte,East,2012,105784.55,83716.13,6278.88,13835.49,490.54,20604.91
+136,2000-06-05,5,4,1,0,Production Technician - WC20,29688,M,M, Lee Foster,Bronte,East,2013,106144.98,83362.28,6636.91,14764.01,770.24,22171.16
+136,2000-06-05,5,4,1,0,Production Technician - WC20,29688,M,M, Lee Foster,Bronte,East,2014,103751.13,83152.26,7035.92,9792.59,2268.45,19096.96
+136,2000-06-05,5,4,1,0,Production Technician - WC20,29688,M,M, Lee Foster,Bronte,East,2015,106878.41,86826.31,7780.96,7564.96,4706.18,20052.10
+136,2000-06-05,5,4,1,0,Production Technician - WC20,29688,M,M, Lee Foster,Bronte,East,2016,104202.12,86259.71,8161.57,7764.26,2016.58,17942.41
+136,2000-06-05,5,4,1,0,Production Technician - WC20,29688,M,M, Lee Foster,Bronte,East,2017,101604.12,86892.50,8656.25,4877.52,1177.85,14711.61
+137,2002-02-25,5,4,1,0,Production Technician - WC20,28750,S,F, Florence Reyes,Bronte,East,2016,2084.88,2084.88,0.00,0.00,0.00,0.00
+137,2002-02-25,5,4,1,0,Production Technician - WC20,28750,S,F, Florence Reyes,Bronte,East,2017,28400.95,28382.01,0.00,18.94,0.00,18.94
+138,1997-11-23,3,4,1,0,Production Technician - WC20,24612,M,F, Leigh Chandler,Port Perry,East,2012,123501.73,112188.22,8414.27,0.00,0.00,8414.27
+138,1997-11-23,3,4,1,0,Production Technician - WC20,24612,M,F, Leigh Chandler,Port Perry,East,2013,124777.74,113410.67,8615.93,0.00,0.00,8615.93
+138,1997-11-23,3,4,1,0,Production Technician - WC20,24612,M,F, Leigh Chandler,Port Perry,East,2014,126886.24,114699.84,9287.64,0.00,0.00,9287.64
+138,1997-11-23,3,4,1,0,Production Technician - WC20,24612,M,F, Leigh Chandler,Port Perry,East,2015,139121.30,121643.75,10456.02,0.00,5754.89,16210.91
+138,1997-11-23,3,4,1,0,Production Technician - WC20,24612,M,F, Leigh Chandler,Port Perry,East,2016,136046.54,121965.94,11095.54,0.00,0.00,11095.54
+138,1997-11-23,3,4,1,0,Production Technician - WC20,24612,M,F, Leigh Chandler,Port Perry,East,2017,140309.04,124689.89,11967.17,2115.11,0.00,14082.28
+139,1999-11-14,7,4,1,0,Production Technician - WC20,17964,S,M, Alejandro George,Brantford,West,2014,18020.58,17846.28,0.00,0.00,174.31,174.31
+139,1999-11-14,7,4,1,0,Production Technician - WC20,17964,S,M, Alejandro George,Brantford,West,2015,39055.02,38927.52,0.00,0.00,127.50,127.50
+139,1999-11-14,7,4,1,0,Production Technician - WC20,17964,S,M, Alejandro George,Brantford,West,2016,39547.74,39420.24,0.00,0.00,127.50,127.50
+139,1999-11-14,7,4,1,0,Production Technician - WC20,17964,S,M, Alejandro George,Brantford,West,2017,6059.72,6059.72,0.00,0.00,0.00,0.00
+140,1996-02-28,1,4,1,0,Production Technician - WC20,27633,M,M, Adrian Moran,Gravenhurst,East,2014,15531.55,15531.55,0.00,0.00,0.00,0.00
+141,1997-03-06,9,4,1,0,Production Technician - WC20,17604,M,M, Jeffery Harris,Sudbury,West,2017,11995.20,11995.20,0.00,0.00,0.00,0.00
+142,1995-12-07,1,4,1,0,Production Technician - WC20,26771,S,F, Winifred Green,Gravenhurst,East,2015,7435.80,7435.80,0.00,0.00,0.00,0.00
+142,1995-12-07,1,4,1,0,Production Technician - WC20,26771,S,F, Winifred Green,Gravenhurst,East,2016,12411.36,12411.36,0.00,0.00,0.00,0.00
+142,1995-12-07,1,4,1,0,Production Technician - WC20,26771,S,F, Winifred Green,Gravenhurst,East,2017,2264.40,2264.40,0.00,0.00,0.00,0.00
+143,1999-01-14,5,4,1,0,Production Technician - WC20,33897,S,M, Horace Collier,Bronte,East,2012,3498.60,3498.60,0.00,0.00,0.00,0.00
+144,1998-07-12,2,4,1,0,Production Technician - WC20,21973,M,M, Fernando Mack,Bracebridge,East,2014,1191.11,1191.11,0.00,0.00,0.00,0.00
+144,1998-07-12,2,4,1,0,Production Technician - WC20,21973,M,M, Fernando Mack,Bracebridge,East,2015,2625.48,2625.48,0.00,0.00,0.00,0.00
+144,1998-07-12,2,4,1,0,Production Technician - WC20,21973,M,M, Fernando Mack,Bracebridge,East,2016,4145.79,4145.79,0.00,0.00,0.00,0.00
+144,1998-07-12,2,4,1,0,Production Technician - WC20,21973,M,M, Fernando Mack,Bracebridge,East,2017,6192.42,6192.42,0.00,0.00,0.00,0.00
+145,1999-11-29,3,3,1,0,Production Supervisor - WC30,32803,S,F, Delia Benson,Port Perry,East,2012,3213.00,3213.00,0.00,0.00,0.00,0.00
+145,1999-11-29,3,3,1,0,Production Supervisor - WC30,32803,S,F, Delia Benson,Port Perry,East,2013,6941.10,6941.10,0.00,0.00,0.00,0.00
+145,1999-11-29,3,3,1,0,Production Supervisor - WC30,32803,S,F, Delia Benson,Port Perry,East,2014,7575.54,7575.54,0.00,0.00,0.00,0.00
+145,1999-11-29,3,3,1,0,Production Supervisor - WC30,32803,S,F, Delia Benson,Port Perry,East,2015,10039.25,10039.25,0.00,0.00,0.00,0.00
+145,1999-11-29,3,3,1,0,Production Supervisor - WC30,32803,S,F, Delia Benson,Port Perry,East,2016,5728.32,5728.32,0.00,0.00,0.00,0.00
+146,2000-03-02,9,4,1,0,Production Technician - WC30,26302,S,M, Roland Hicks,Sudbury,West,2012,2120.03,2120.03,0.00,0.00,0.00,0.00
+147,2001-05-06,6,4,1,0,Production Technician - WC30,28464,M,F, Pam Stone,Burlington,West,2014,2283.53,2283.53,0.00,0.00,0.00,0.00
+147,2001-05-06,6,4,1,0,Production Technician - WC30,28464,M,F, Pam Stone,Burlington,West,2015,360.32,360.32,0.00,0.00,0.00,0.00
+148,1996-06-05,7,4,1,0,Production Technician - WC30,33662,S,M, Sammy Gregory,Brantford,West,2015,726.75,726.75,0.00,0.00,0.00,0.00
+149,1996-04-21,9,4,1,0,Production Technician - WC30,29986,M,M, Todd Zimmerman,Sudbury,West,2012,95157.60,80800.54,3652.06,10145.01,559.98,14357.05
+149,1996-04-21,9,4,1,0,Production Technician - WC30,29986,M,M, Todd Zimmerman,Sudbury,West,2013,101791.31,82205.76,3836.61,14473.93,1275.00,19585.54
+149,1996-04-21,9,4,1,0,Production Technician - WC30,29986,M,M, Todd Zimmerman,Sudbury,West,2014,100773.85,83902.15,4131.14,11210.55,1530.00,16871.70
+149,1996-04-21,9,4,1,0,Production Technician - WC30,29986,M,M, Todd Zimmerman,Sudbury,West,2015,122472.97,85328.69,4628.21,30526.83,1530.00,36685.03
+149,1996-04-21,9,4,1,0,Production Technician - WC30,29986,M,M, Todd Zimmerman,Sudbury,West,2016,122138.75,87045.20,5156.57,25717.24,1530.00,32403.81
+149,1996-04-21,9,4,1,0,Production Technician - WC30,29986,M,M, Todd Zimmerman,Sudbury,West,2017,140090.18,88978.69,5699.14,41548.81,2340.08,49588.03
+150,2003-03-04,2,4,1,0,Production Technician - WC30,18696,M,M, Ken Fowler,Bracebridge,East,2014,3105.90,3105.90,0.00,0.00,0.00,0.00
+150,2003-03-04,2,4,1,0,Production Technician - WC30,18696,M,M, Ken Fowler,Bracebridge,East,2015,3934.65,3934.65,0.00,0.00,0.00,0.00
+151,1998-08-29,3,4,1,0,Production Technician - WC30,33166,M,M, Wilbert Lawson,Port Perry,East,2016,219.56,219.56,0.00,0.00,0.00,0.00
+151,1998-08-29,3,4,1,0,Production Technician - WC30,33166,M,M, Wilbert Lawson,Port Perry,East,2017,2341.92,2341.92,0.00,0.00,0.00,0.00
+152,1998-03-03,5,3,1,0,Production Supervisor - WC20,33636,M,M, Terry Brooks,Bronte,East,2012,71509.48,54237.05,0.00,0.00,17272.43,17272.43
+152,1998-03-03,5,3,1,0,Production Supervisor - WC20,33636,M,M, Terry Brooks,Bronte,East,2013,87570.49,63506.62,0.00,10817.92,13245.94,24063.86
+152,1998-03-03,5,3,1,0,Production Supervisor - WC20,33636,M,M, Terry Brooks,Bronte,East,2014,104029.00,79532.19,462.26,21941.11,2093.44,24496.81
+152,1998-03-03,5,3,1,0,Production Supervisor - WC20,33636,M,M, Terry Brooks,Bronte,East,2015,87367.04,73250.91,2125.87,10237.16,1753.09,14116.13
+152,1998-03-03,5,3,1,0,Production Supervisor - WC20,33636,M,M, Terry Brooks,Bronte,East,2016,99360.29,83396.45,2839.94,11270.58,1853.32,15963.84
+152,1998-03-03,5,3,1,0,Production Supervisor - WC20,33636,M,M, Terry Brooks,Bronte,East,2017,131083.13,89391.59,3465.08,36304.91,1921.55,41691.54
+153,1998-06-17,8,4,1,0,Production Technician - WC20,23016,S,M, Jeff Bennett,London,West,2016,4083.06,4083.06,0.00,0.00,0.00,0.00
+153,1998-06-17,8,4,1,0,Production Technician - WC20,23016,S,M, Jeff Bennett,London,West,2017,8418.06,8418.06,0.00,0.00,0.00,0.00
+154,1997-01-28,6,4,1,0,Production Technician - WC20,23140,M,M, Hubert Chapman,Burlington,West,2012,111738.09,92682.57,9268.32,6362.86,341.70,15972.88
+154,1997-01-28,6,4,1,0,Production Technician - WC20,23140,M,M, Hubert Chapman,Burlington,West,2013,108603.97,92069.59,9207.03,3523.58,751.74,13482.35
+154,1997-01-28,6,4,1,0,Production Technician - WC20,23140,M,M, Hubert Chapman,Burlington,West,2014,106763.94,91674.88,9167.57,1068.24,1801.22,12037.02
+154,1997-01-28,6,4,1,0,Production Technician - WC20,23140,M,M, Hubert Chapman,Burlington,West,2015,115137.01,95725.73,9572.77,2015.22,4805.52,16393.51
+154,1997-01-28,6,4,1,0,Production Technician - WC20,23140,M,M, Hubert Chapman,Burlington,West,2016,110562.28,95792.58,9579.45,1449.38,675.97,11704.81
+154,1997-01-28,6,4,1,0,Production Technician - WC20,23140,M,M, Hubert Chapman,Burlington,West,2017,113387.14,97698.16,9769.97,2563.41,214.20,12547.58
+155,2000-03-13,4,4,1,0,Production Technician - WC20,28692,S,M, Grant Fuller,Pickering,East,2014,8407.35,8407.35,0.00,0.00,0.00,0.00
+155,2000-03-13,4,4,1,0,Production Technician - WC20,28692,S,M, Grant Fuller,Pickering,East,2015,8511.90,8511.90,0.00,0.00,0.00,0.00
+155,2000-03-13,4,4,1,0,Production Technician - WC20,28692,S,M, Grant Fuller,Pickering,East,2016,9200.40,9200.40,0.00,0.00,0.00,0.00
+155,2000-03-13,4,4,1,0,Production Technician - WC20,28692,S,M, Grant Fuller,Pickering,East,2017,5163.75,5163.75,0.00,0.00,0.00,0.00
+156,1996-07-29,5,4,1,0,Production Technician - WC20,31931,M,M, Clark Hamilton,Bronte,East,2014,3941.03,3941.03,0.00,0.00,0.00,0.00
+156,1996-07-29,5,4,1,0,Production Technician - WC20,31931,M,M, Clark Hamilton,Bronte,East,2015,7888.31,7888.31,0.00,0.00,0.00,0.00
+156,1996-07-29,5,4,1,0,Production Technician - WC20,31931,M,M, Clark Hamilton,Bronte,East,2016,7314.80,7314.80,0.00,0.00,0.00,0.00
+156,1996-07-29,5,4,1,0,Production Technician - WC20,31931,M,M, Clark Hamilton,Bronte,East,2017,8081.97,8081.97,0.00,0.00,0.00,0.00
+157,2003-01-16,8,4,1,0,Production Technician - WC20,21467,S,F, Valerie Nichols,London,West,2017,1254.60,1254.60,0.00,0.00,0.00,0.00
+158,2001-07-06,3,4,1,0,Production Technician - WC20,30461,S,F, Diane Weber,Port Perry,East,2015,612.00,612.00,0.00,0.00,0.00,0.00
+158,2001-07-06,3,4,1,0,Production Technician - WC20,30461,S,F, Diane Weber,Port Perry,East,2016,18704.25,18704.25,0.00,0.00,0.00,0.00
+158,2001-07-06,3,4,1,0,Production Technician - WC20,30461,S,F, Diane Weber,Port Perry,East,2017,8063.10,8063.10,0.00,0.00,0.00,0.00
+159,2000-06-10,10,4,1,0,Production Technician - WC20,32605,S,M, Seth Adams,Sault Ste. Marie,West,2016,23023.29,23023.29,0.00,0.00,0.00,0.00
+159,2000-06-10,10,4,1,0,Production Technician - WC20,32605,S,M, Seth Adams,Sault Ste. Marie,West,2017,44235.00,43446.14,0.00,431.87,357.00,788.87
+160,2002-01-10,1,3,1,0,Production Supervisor - WC45,27381,M,M, Clint Harrington,Gravenhurst,East,2012,68280.86,62146.03,0.00,0.00,559.98,559.98
+160,2002-01-10,1,3,1,0,Production Supervisor - WC45,27381,M,M, Clint Harrington,Gravenhurst,East,2013,69083.20,62758.23,0.00,2284.29,0.00,2284.29
+160,2002-01-10,1,3,1,0,Production Supervisor - WC45,27381,M,M, Clint Harrington,Gravenhurst,East,2014,69310.48,64236.87,0.00,0.00,0.00,0.00
+160,2002-01-10,1,3,1,0,Production Supervisor - WC45,27381,M,M, Clint Harrington,Gravenhurst,East,2015,74894.52,65854.34,0.00,2224.67,1020.00,3244.67
+160,2002-01-10,1,3,1,0,Production Supervisor - WC45,27381,M,M, Clint Harrington,Gravenhurst,East,2016,76650.27,66920.74,0.00,2191.47,3059.17,5250.64
+160,2002-01-10,1,3,1,0,Production Supervisor - WC45,27381,M,M, Clint Harrington,Gravenhurst,East,2017,76258.56,68398.31,0.00,1216.35,1528.06,2744.41
+161,2002-12-04,5,4,1,0,Production Technician - WC45,33174,S,M, Lewis Richards,Bronte,East,2012,36766.50,36206.52,0.00,0.00,559.98,559.98
+161,2002-12-04,5,4,1,0,Production Technician - WC45,33174,S,M, Lewis Richards,Bronte,East,2013,86431.74,86431.74,0.00,0.00,0.00,0.00
+161,2002-12-04,5,4,1,0,Production Technician - WC45,33174,S,M, Lewis Richards,Bronte,East,2014,91225.76,87717.78,0.00,0.00,2040.00,2040.00
+161,2002-12-04,5,4,1,0,Production Technician - WC45,33174,S,M, Lewis Richards,Bronte,East,2015,94081.92,89244.68,0.00,0.00,2040.00,2040.00
+161,2002-12-04,5,4,1,0,Production Technician - WC45,33174,S,M, Lewis Richards,Bronte,East,2016,97277.04,91547.09,0.00,0.00,2856.00,2856.00
+161,2002-12-04,5,4,1,0,Production Technician - WC45,33174,S,M, Lewis Richards,Bronte,East,2017,98841.92,94579.64,0.00,0.00,1530.00,1530.00
+162,1996-09-16,5,4,1,0,Production Technician - WC45,32026,S,F, Sue Cross,Bronte,East,2012,117520.58,85506.39,6955.70,16088.62,382.50,23426.82
+162,1996-09-16,5,4,1,0,Production Technician - WC45,32026,S,F, Sue Cross,Bronte,East,2013,120872.93,86010.06,7427.37,17359.94,1530.00,26317.32
+162,1996-09-16,5,4,1,0,Production Technician - WC45,32026,S,F, Sue Cross,Bronte,East,2014,120826.43,87111.90,7958.28,16693.44,1538.16,26189.89
+162,1996-09-16,5,4,1,0,Production Technician - WC45,32026,S,F, Sue Cross,Bronte,East,2015,116582.98,88637.98,8541.24,13816.21,1530.00,23887.44
+162,1996-09-16,5,4,1,0,Production Technician - WC45,32026,S,F, Sue Cross,Bronte,East,2016,121045.41,90294.48,9029.50,15804.83,1530.00,26364.33
+162,1996-09-16,5,4,1,0,Production Technician - WC45,32026,S,F, Sue Cross,Bronte,East,2017,122749.25,93068.10,9306.92,13292.69,1530.00,24129.61
+163,2002-07-23,6,4,1,0,Production Technician - WC45,32431,M,M, Guadalupe Fox,Burlington,West,2016,2377.62,2377.62,0.00,0.00,0.00,0.00
+163,2002-07-23,6,4,1,0,Production Technician - WC45,32431,M,M, Guadalupe Fox,Burlington,West,2017,8652.15,8652.15,0.00,0.00,0.00,0.00
+164,1998-07-02,3,4,1,0,Production Technician - WC45,22380,S,M, Johnny Wright,Port Perry,East,2012,3285.52,3285.52,0.00,0.00,0.00,0.00
+164,1998-07-02,3,4,1,0,Production Technician - WC45,22380,S,M, Johnny Wright,Port Perry,East,2013,3254.67,3254.67,0.00,0.00,0.00,0.00
+164,1998-07-02,3,4,1,0,Production Technician - WC45,22380,S,M, Johnny Wright,Port Perry,East,2014,1994.36,1994.36,0.00,0.00,0.00,0.00
+165,2002-10-19,9,4,1,0,Production Technician - WC45,33546,M,M, Jean Hawkins,Sudbury,West,2016,19688.56,18309.51,0.00,1379.05,0.00,1379.05
+165,2002-10-19,9,4,1,0,Production Technician - WC45,33546,M,M, Jean Hawkins,Sudbury,West,2017,58185.54,48905.26,0.00,6562.68,2717.61,9280.29
+166,2003-05-10,4,3,1,0,Production Supervisor - WC30,27613,S,M, Jared Myers,Pickering,East,2012,54551.74,51757.17,0.00,1103.93,0.00,1103.93
+166,2003-05-10,4,3,1,0,Production Supervisor - WC30,27613,S,M, Jared Myers,Pickering,East,2013,55446.25,53541.40,0.00,234.09,0.00,234.09
+166,2003-05-10,4,3,1,0,Production Supervisor - WC30,27613,S,M, Jared Myers,Pickering,East,2014,45041.95,44603.87,0.00,0.00,0.00,0.00
+167,1997-07-27,3,4,1,0,Production Technician - WC30,33270,S,M, Roderick Aguilar,Port Perry,East,2012,4129.06,4129.06,0.00,0.00,0.00,0.00
+167,1997-07-27,3,4,1,0,Production Technician - WC30,33270,S,M, Roderick Aguilar,Port Perry,East,2013,4866.93,4866.93,0.00,0.00,0.00,0.00
+168,1997-01-09,9,4,1,0,Production Technician - WC30,22154,S,M, Dustin Holloway,Sudbury,West,2016,795.60,795.60,0.00,0.00,0.00,0.00
+168,1997-01-09,9,4,1,0,Production Technician - WC30,22154,S,M, Dustin Holloway,Sudbury,West,2017,708.90,708.90,0.00,0.00,0.00,0.00
+169,2001-10-19,2,4,1,0,Production Technician - WC30,27622,S,F, Yvonne Keller,Bracebridge,East,2012,75160.79,75160.79,0.00,0.00,0.00,0.00
+169,2001-10-19,2,4,1,0,Production Technician - WC30,27622,S,F, Yvonne Keller,Bracebridge,East,2013,76750.50,76750.50,0.00,0.00,0.00,0.00
+169,2001-10-19,2,4,1,0,Production Technician - WC30,27622,S,F, Yvonne Keller,Bracebridge,East,2014,77897.34,77897.34,0.00,0.00,0.00,0.00
+169,2001-10-19,2,4,1,0,Production Technician - WC30,27622,S,F, Yvonne Keller,Bracebridge,East,2015,79524.24,78504.24,0.00,0.00,1020.00,1020.00
+169,2001-10-19,2,4,1,0,Production Technician - WC30,27622,S,F, Yvonne Keller,Bracebridge,East,2016,80363.03,78833.03,0.00,0.00,1530.00,1530.00
+169,2001-10-19,2,4,1,0,Production Technician - WC30,27622,S,F, Yvonne Keller,Bracebridge,East,2017,81618.09,80088.09,0.00,0.00,1530.00,1530.00
+170,1999-05-21,4,4,1,0,Production Technician - WC30,29132,M,M, Toby Thompson,Pickering,East,2013,2256.75,2256.75,0.00,0.00,0.00,0.00
+170,1999-05-21,4,4,1,0,Production Technician - WC30,29132,M,M, Toby Thompson,Pickering,East,2014,3399.15,3399.15,0.00,0.00,0.00,0.00
+170,1999-05-21,4,4,1,0,Production Technician - WC30,29132,M,M, Toby Thompson,Pickering,East,2015,989.40,989.40,0.00,0.00,0.00,0.00
+170,1999-05-21,4,4,1,0,Production Technician - WC30,29132,M,M, Toby Thompson,Pickering,East,2016,742.05,742.05,0.00,0.00,0.00,0.00
+171,2002-08-17,6,4,1,0,Production Technician - WC30,19215,S,M, Francisco Abbott,Burlington,West,2012,14117.44,14117.44,0.00,0.00,0.00,0.00
+171,2002-08-17,6,4,1,0,Production Technician - WC30,19215,S,M, Francisco Abbott,Burlington,West,2013,16859.33,16859.33,0.00,0.00,0.00,0.00
+171,2002-08-17,6,4,1,0,Production Technician - WC30,19215,S,M, Francisco Abbott,Burlington,West,2014,15550.92,15550.92,0.00,0.00,0.00,0.00
+171,2002-08-17,6,4,1,0,Production Technician - WC30,19215,S,M, Francisco Abbott,Burlington,West,2015,8870.08,8870.08,0.00,0.00,0.00,0.00
+172,2003-05-03,6,4,1,0,Production Technician - WC30,26774,M,M, Bryant Wells,Burlington,West,2012,68029.73,64774.47,0.00,3255.26,0.00,3255.26
+172,2003-05-03,6,4,1,0,Production Technician - WC30,26774,M,M, Bryant Wells,Burlington,West,2013,68059.39,64684.43,0.00,3374.95,0.00,3374.95
+172,2003-05-03,6,4,1,0,Production Technician - WC30,26774,M,M, Bryant Wells,Burlington,West,2014,69245.20,64642.71,225.55,4376.93,0.00,4602.48
+172,2003-05-03,6,4,1,0,Production Technician - WC30,26774,M,M, Bryant Wells,Burlington,West,2015,78839.25,67735.89,2071.09,4650.71,3042.09,9763.89
+172,2003-05-03,6,4,1,0,Production Technician - WC30,26774,M,M, Bryant Wells,Burlington,West,2016,78199.04,67914.55,2416.77,6153.21,341.60,8911.58
+172,2003-05-03,6,4,1,0,Production Technician - WC30,26774,M,M, Bryant Wells,Burlington,West,2017,80349.11,69431.38,2817.92,6332.66,0.00,9150.58
+173,2003-08-23,5,4,1,0,Production Technician - WC30,22010,S,M, Danny Luna,Bronte,East,2012,75627.55,71493.12,0.00,1384.37,911.86,2296.23
+173,2003-08-23,5,4,1,0,Production Technician - WC30,22010,S,M, Danny Luna,Bronte,East,2013,80251.71,75364.38,0.00,1268.43,2317.54,3585.97
+173,2003-08-23,5,4,1,0,Production Technician - WC30,22010,S,M, Danny Luna,Bronte,East,2014,89127.14,79683.57,462.26,2965.99,6015.32,9443.57
+173,2003-08-23,5,4,1,0,Production Technician - WC30,22010,S,M, Danny Luna,Bronte,East,2015,90138.95,80925.15,2490.75,315.67,6407.39,9213.80
+173,2003-08-23,5,4,1,0,Production Technician - WC30,22010,S,M, Danny Luna,Bronte,East,2016,95730.42,84882.12,3041.82,2576.31,5230.17,10848.30
+173,2003-08-23,5,4,1,0,Production Technician - WC30,22010,S,M, Danny Luna,Bronte,East,2017,100704.70,93068.28,3795.34,1775.22,2065.87,7636.42
+174,1998-12-20,2,4,1,0,Production Technician - WC30,27969,S,M, Elmer Harper,Bracebridge,East,2012,45060.73,43346.67,1517.28,0.00,196.78,1714.06
+174,1998-12-20,2,4,1,0,Production Technician - WC30,27969,S,M, Elmer Harper,Bracebridge,East,2013,54465.50,52330.80,1884.31,0.00,250.38,2134.69
+174,1998-12-20,2,4,1,0,Production Technician - WC30,27969,S,M, Elmer Harper,Bracebridge,East,2014,57433.63,55173.00,2260.63,0.00,0.00,2260.63
+174,1998-12-20,2,4,1,0,Production Technician - WC30,27969,S,M, Elmer Harper,Bracebridge,East,2015,63869.83,58514.60,2689.09,0.00,2666.15,5355.23
+174,1998-12-20,2,4,1,0,Production Technician - WC30,27969,S,M, Elmer Harper,Bracebridge,East,2016,61665.01,58674.13,2990.87,0.00,0.00,2990.87
+174,1998-12-20,2,4,1,0,Production Technician - WC30,27969,S,M, Elmer Harper,Bracebridge,East,2017,63337.31,59979.78,3357.52,0.00,0.00,3357.52
+175,2001-08-18,10,4,1,0,Production Technician - WC30,28568,M,M, Ronnie Riley,Sault Ste. Marie,West,2014,25491.84,25491.84,0.00,0.00,0.00,0.00
+175,2001-08-18,10,4,1,0,Production Technician - WC30,28568,M,M, Ronnie Riley,Sault Ste. Marie,West,2015,43570.26,42978.71,0.00,67.32,524.23,591.55
+175,2001-08-18,10,4,1,0,Production Technician - WC30,28568,M,M, Ronnie Riley,Sault Ste. Marie,West,2016,8772.00,8772.00,0.00,0.00,0.00,0.00
+176,2003-04-20,8,4,1,0,Production Technician - WC30,24349,M,M, Gerard Lambert,London,West,2017,50520.68,49230.16,0.00,853.29,437.23,1290.52
+177,2001-12-29,9,4,1,0,Production Technician - WC30,26090,M,M, Donnie Ramos,Sudbury,West,2015,9310.05,9310.05,0.00,0.00,0.00,0.00
+177,2001-12-29,9,4,1,0,Production Technician - WC30,26090,M,M, Donnie Ramos,Sudbury,West,2016,5115.30,5115.30,0.00,0.00,0.00,0.00
+178,2003-02-02,8,4,1,0,Production Technician - WC30,19534,S,M, Herbert Walker,London,West,2012,154040.28,124147.91,0.00,0.00,2395.98,2395.98
+178,2003-02-02,8,4,1,0,Production Technician - WC30,19534,S,M, Herbert Walker,London,West,2013,134732.28,126127.02,0.00,0.00,3663.56,3663.56
+178,2003-02-02,8,4,1,0,Production Technician - WC30,19534,S,M, Herbert Walker,London,West,2014,153786.30,141320.97,0.00,0.00,1304.08,1304.08
+178,2003-02-02,8,4,1,0,Production Technician - WC30,19534,S,M, Herbert Walker,London,West,2015,160328.18,147962.10,0.00,0.00,933.92,933.92
+178,2003-02-02,8,4,1,0,Production Technician - WC30,19534,S,M, Herbert Walker,London,West,2016,164860.65,151683.07,0.00,0.00,1530.00,1530.00
+178,2003-02-02,8,4,1,0,Production Technician - WC30,19534,S,M, Herbert Walker,London,West,2017,169662.01,154744.91,0.00,0.00,1530.00,1530.00
+179,1999-06-04,2,4,1,0,Production Technician - WC30,28078,S,M, Leslie Vasquez,Bracebridge,East,2015,44739.89,39624.15,0.00,3968.24,1147.50,5115.74
+179,1999-06-04,2,4,1,0,Production Technician - WC30,28078,S,M, Leslie Vasquez,Bracebridge,East,2016,59717.35,52549.02,0.00,5071.39,2096.94,7168.33
+179,1999-06-04,2,4,1,0,Production Technician - WC30,28078,S,M, Leslie Vasquez,Bracebridge,East,2017,68448.66,58188.02,0.00,6617.39,3643.25,10260.64
+180,2000-12-12,2,3,1,0,Production Supervisor - WC20,30383,S,F, Jeanne Riley,Bracebridge,East,2012,157960.13,96666.61,9666.81,40779.24,3705.66,54151.71
+180,2000-12-12,2,3,1,0,Production Supervisor - WC20,30383,S,F, Jeanne Riley,Bracebridge,East,2013,159765.28,97226.63,9722.81,39550.68,4845.00,54118.50
+180,2000-12-12,2,3,1,0,Production Supervisor - WC20,30383,S,F, Jeanne Riley,Bracebridge,East,2014,162781.45,98481.82,9848.33,37515.84,8389.70,55753.88
+180,2000-12-12,2,3,1,0,Production Supervisor - WC20,30383,S,F, Jeanne Riley,Bracebridge,East,2015,174392.57,100207.13,10020.85,51735.95,4924.56,66681.36
+180,2000-12-12,2,3,1,0,Production Supervisor - WC20,30383,S,F, Jeanne Riley,Bracebridge,East,2016,157548.60,102056.93,10205.81,41105.75,2447.51,53759.07
+180,2000-12-12,2,3,1,0,Production Supervisor - WC20,30383,S,F, Jeanne Riley,Bracebridge,East,2017,157840.55,105215.33,10521.65,35607.53,2474.19,48603.37
+181,2001-07-01,10,4,1,0,Production Technician - WC20,17061,S,M, Terrance Castillo,Sault Ste. Marie,West,2012,170657.03,96666.63,9611.02,55240.20,390.66,65241.88
+181,2001-07-01,10,4,1,0,Production Technician - WC20,17061,S,M, Terrance Castillo,Sault Ste. Marie,West,2013,165223.19,97226.60,9722.81,47880.52,1530.00,59133.34
+181,2001-07-01,10,4,1,0,Production Technician - WC20,17061,S,M, Terrance Castillo,Sault Ste. Marie,West,2014,181920.37,98481.79,9848.33,60644.33,5074.70,75567.37
+181,2001-07-01,10,4,1,0,Production Technician - WC20,17061,S,M, Terrance Castillo,Sault Ste. Marie,West,2015,221702.39,100207.03,10020.85,97170.29,5127.58,112318.72
+181,2001-07-01,10,4,1,0,Production Technician - WC20,17061,S,M, Terrance Castillo,Sault Ste. Marie,West,2016,190926.79,102056.92,10205.81,60243.73,1530.00,71979.54
+181,2001-07-01,10,4,1,0,Production Technician - WC20,17061,S,M, Terrance Castillo,Sault Ste. Marie,West,2017,181352.67,105215.26,10521.62,53983.04,3426.55,67931.20
+182,1999-01-18,6,4,1,0,Production Technician - WC20,31422,S,M, Ellis Malone,Burlington,West,2017,7735.68,7735.68,0.00,0.00,0.00,0.00
+183,2001-10-26,3,4,1,0,Production Technician - WC20,25494,M,F, Kristin Aguilar,Port Perry,East,2017,1948.46,1948.46,0.00,0.00,0.00,0.00
+184,2000-07-19,5,4,1,0,Production Technician - WC20,32475,M,M, Clifford Holland,Bronte,East,2014,1576.41,1576.41,0.00,0.00,0.00,0.00
+184,2000-07-19,5,4,1,0,Production Technician - WC20,32475,M,M, Clifford Holland,Bronte,East,2015,4154.77,4154.77,0.00,0.00,0.00,0.00
+185,1998-02-19,5,4,1,0,Production Technician - WC20,17879,S,M, Matthew Jackson,Bronte,East,2014,2168.27,2168.27,0.00,0.00,0.00,0.00
+186,1997-03-02,3,3,1,0,Production Supervisor - WC45,25598,S,M, Adam Mcdonald,Port Perry,East,2013,121.38,121.38,0.00,0.00,0.00,0.00
+186,1997-03-02,3,3,1,0,Production Supervisor - WC45,25598,S,M, Adam Mcdonald,Port Perry,East,2014,3147.21,3043.17,0.00,104.04,0.00,104.04
+186,1997-03-02,3,3,1,0,Production Supervisor - WC45,25598,S,M, Adam Mcdonald,Port Perry,East,2015,2028.78,2028.78,0.00,0.00,0.00,0.00
+187,2000-08-05,9,4,1,0,Production Technician - WC45,25816,M,F, Rachael Fitzgerald,Sudbury,West,2012,81299.50,73140.58,0.00,6450.80,1010.24,7461.03
+187,2000-08-05,9,4,1,0,Production Technician - WC45,25816,M,F, Rachael Fitzgerald,Sudbury,West,2013,87281.09,73511.75,0.00,10743.32,1661.67,12405.00
+187,2000-08-05,9,4,1,0,Production Technician - WC45,25816,M,F, Rachael Fitzgerald,Sudbury,West,2014,89333.15,74921.25,0.00,10690.94,1530.00,12220.94
+187,2000-08-05,9,4,1,0,Production Technician - WC45,25816,M,F, Rachael Fitzgerald,Sudbury,West,2015,98858.35,80238.19,0.00,15518.14,1530.00,17048.14
+187,2000-08-05,9,4,1,0,Production Technician - WC45,25816,M,F, Rachael Fitzgerald,Sudbury,West,2016,105183.41,86363.76,2213.72,15075.94,1530.00,18819.65
+187,2000-08-05,9,4,1,0,Production Technician - WC45,25816,M,F, Rachael Fitzgerald,Sudbury,West,2017,115983.08,88978.71,3046.78,21043.41,2914.18,27004.37
+188,2001-12-19,5,4,1,0,Production Technician - WC45,31403,M,M, Ramiro Mendoza,Bronte,East,2016,5195.88,5195.88,0.00,0.00,0.00,0.00
+189,1997-09-24,3,4,1,0,Production Technician - WC45,22082,S,F, Sandy Santiago,Port Perry,East,2012,147538.70,96666.64,7082.79,42132.01,382.50,49597.30
+189,1997-09-24,3,4,1,0,Production Technician - WC45,22082,S,F, Sandy Santiago,Port Perry,East,2013,138003.91,97226.52,7610.90,30862.11,1530.00,40003.01
+189,1997-09-24,3,4,1,0,Production Technician - WC45,22082,S,F, Sandy Santiago,Port Perry,East,2014,140753.43,98481.84,8201.86,30863.01,1530.00,40594.87
+189,1997-09-24,3,4,1,0,Production Technician - WC45,22082,S,F, Sandy Santiago,Port Perry,East,2015,103219.14,38159.68,3262.68,10462.45,765.00,14490.13
+190,2003-02-01,3,4,1,0,Production Technician - WC45,26383,S,M, Lester Benson,Port Perry,East,2016,1138.32,1138.32,0.00,0.00,0.00,0.00
+191,1999-10-15,6,4,1,0,Production Technician - WC45,32310,S,M, Homer Brady,Burlington,West,2012,63300.32,62794.05,0.00,0.00,506.28,506.28
+191,1999-10-15,6,4,1,0,Production Technician - WC45,32310,S,M, Homer Brady,Burlington,West,2013,65744.40,65433.30,0.00,0.00,311.10,311.10
+191,1999-10-15,6,4,1,0,Production Technician - WC45,32310,S,M, Homer Brady,Burlington,West,2014,70914.80,70603.70,0.00,0.00,311.10,311.10
+191,1999-10-15,6,4,1,0,Production Technician - WC45,32310,S,M, Homer Brady,Burlington,West,2015,82360.13,78773.71,0.00,0.00,3586.42,3586.42
+191,1999-10-15,6,4,1,0,Production Technician - WC45,32310,S,M, Homer Brady,Burlington,West,2016,88037.67,83900.90,1721.98,0.00,2414.79,4136.77
+191,1999-10-15,6,4,1,0,Production Technician - WC45,32310,S,M, Homer Brady,Burlington,West,2017,22477.15,19253.17,577.61,0.00,1235.63,1813.23
+192,1996-01-30,6,3,1,0,Production Supervisor - WC40,28943,M,F, Claudia Bennett,Burlington,West,2012,15322.07,15322.07,0.00,0.00,0.00,0.00
+192,1996-01-30,6,3,1,0,Production Supervisor - WC40,28943,M,F, Claudia Bennett,Burlington,West,2013,14187.18,14187.18,0.00,0.00,0.00,0.00
+192,1996-01-30,6,3,1,0,Production Supervisor - WC40,28943,M,F, Claudia Bennett,Burlington,West,2014,14465.64,14465.64,0.00,0.00,0.00,0.00
+192,1996-01-30,6,3,1,0,Production Supervisor - WC40,28943,M,F, Claudia Bennett,Burlington,West,2015,16557.66,16557.66,0.00,0.00,0.00,0.00
+192,1996-01-30,6,3,1,0,Production Supervisor - WC40,28943,M,F, Claudia Bennett,Burlington,West,2016,30674.74,30462.03,0.00,212.70,0.00,212.70
+192,1996-01-30,6,3,1,0,Production Supervisor - WC40,28943,M,F, Claudia Bennett,Burlington,West,2017,44617.22,43642.47,0.00,617.74,357.00,974.74
+193,2003-10-14,1,4,1,0,Production Technician - WC40,25769,S,M, Arnold Medina,Gravenhurst,East,2017,24523.33,22829.40,0.00,744.50,949.44,1693.93
+194,2002-01-04,2,4,1,0,Production Technician - WC40,25848,S,M, Bernard Cohen,Bracebridge,East,2012,21384.53,21384.53,0.00,0.00,0.00,0.00
+194,2002-01-04,2,4,1,0,Production Technician - WC40,25848,S,M, Bernard Cohen,Bracebridge,East,2013,38916.36,38916.36,0.00,0.00,0.00,0.00
+194,2002-01-04,2,4,1,0,Production Technician - WC40,25848,S,M, Bernard Cohen,Bracebridge,East,2014,4794.49,4698.65,0.00,0.00,0.00,0.00
+195,1997-09-16,7,4,1,0,Production Technician - WC40,22167,S,M, Hugh Schultz,Brantford,West,2015,775.20,775.20,0.00,0.00,0.00,0.00
+195,1997-09-16,7,4,1,0,Production Technician - WC40,22167,S,M, Hugh Schultz,Brantford,West,2016,5016.36,5016.36,0.00,0.00,0.00,0.00
+195,1997-09-16,7,4,1,0,Production Technician - WC40,22167,S,M, Hugh Schultz,Brantford,West,2017,7640.82,7640.82,0.00,0.00,0.00,0.00
+196,2001-11-21,10,4,1,0,Production Technician - WC40,27774,M,M, Richard Roberson,Sault Ste. Marie,West,2017,1009.80,1009.80,0.00,0.00,0.00,0.00
+197,1999-02-23,5,4,1,0,Production Technician - WC40,25616,M,M, Timothy Higgins,Bronte,East,2012,134493.22,13632.47,1363.27,5988.62,0.00,7351.89
+198,2001-03-26,6,4,1,0,Production Technician - WC40,17042,M,F, Gina Gibson,Burlington,West,2012,187129.57,132116.75,8587.71,0.00,10351.98,18939.69
+198,2001-03-26,6,4,1,0,Production Technician - WC40,17042,M,F, Gina Gibson,Burlington,West,2013,163762.81,140898.15,5310.06,0.00,6222.00,11532.06
+198,2001-03-26,6,4,1,0,Production Technician - WC40,17042,M,F, Gina Gibson,Burlington,West,2014,166846.26,154830.66,0.00,0.00,3060.00,3060.00
+198,2001-03-26,6,4,1,0,Production Technician - WC40,17042,M,F, Gina Gibson,Burlington,West,2015,173405.78,160221.67,0.00,0.00,1020.00,1020.00
+198,2001-03-26,6,4,1,0,Production Technician - WC40,17042,M,F, Gina Gibson,Burlington,West,2016,180412.56,166886.85,0.00,0.00,1530.00,1530.00
+198,2001-03-26,6,4,1,0,Production Technician - WC40,17042,M,F, Gina Gibson,Burlington,West,2017,181334.25,171547.35,0.00,0.00,1530.00,1530.00
+199,1999-03-13,2,4,1,0,Production Technician - WC40,28868,M,F, Marian Dixon,Bracebridge,East,2017,4764.24,4764.24,0.00,0.00,0.00,0.00
+200,2003-01-10,5,4,1,0,Production Technician - WC40,21610,M,M, Benny Page,Bronte,East,2012,92297.13,92297.13,0.00,0.00,0.00,0.00
+200,2003-01-10,5,4,1,0,Production Technician - WC40,21610,M,M, Benny Page,Bronte,East,2013,91906.48,91906.48,0.00,0.00,0.00,0.00
+200,2003-01-10,5,4,1,0,Production Technician - WC40,21610,M,M, Benny Page,Bronte,East,2014,98872.74,94032.57,0.00,1196.11,893.48,2089.59
+200,2003-01-10,5,4,1,0,Production Technician - WC40,21610,M,M, Benny Page,Bronte,East,2015,121701.92,105080.75,0.00,8023.82,4581.82,12605.64
+200,2003-01-10,5,4,1,0,Production Technician - WC40,21610,M,M, Benny Page,Bronte,East,2016,118747.47,105359.14,2558.59,6083.69,0.00,8642.28
+200,2003-01-10,5,4,1,0,Production Technician - WC40,21610,M,M, Benny Page,Bronte,East,2017,125341.45,109138.66,3079.95,241.44,1530.00,4851.40
+201,2001-08-16,5,4,1,0,Production Technician - WC40,34013,S,M, Shaun Sutton,Bronte,East,2017,2641.80,2641.80,0.00,0.00,0.00,0.00
+202,2003-12-26,8,4,1,0,Production Technician - WC40,24843,S,M, Brad Morgan,London,West,2016,30826.88,30628.82,0.00,0.00,198.06,198.06
+202,2003-12-26,8,4,1,0,Production Technician - WC40,24843,S,M, Brad Morgan,London,West,2017,41946.04,40859.33,0.00,602.21,484.50,1086.71
+203,1996-01-18,2,4,1,0,Production Technician - WC40,33460,M,M, Blake Adkins,Bracebridge,East,2014,19479.96,19479.96,0.00,0.00,0.00,0.00
+203,1996-01-18,2,4,1,0,Production Technician - WC40,33460,M,M, Blake Adkins,Bracebridge,East,2015,37942.69,37548.04,0.00,37.66,357.00,394.66
+203,1996-01-18,2,4,1,0,Production Technician - WC40,33460,M,M, Blake Adkins,Bracebridge,East,2016,43092.04,43092.04,0.00,0.00,0.00,0.00
+203,1996-01-18,2,4,1,0,Production Technician - WC40,33460,M,M, Blake Adkins,Bracebridge,East,2017,46718.97,45800.57,0.00,132.28,0.00,132.28
+204,1999-07-10,4,4,1,0,Production Technician - WC40,23002,M,M, Andy Mills,Pickering,East,2017,6135.30,5630.40,0.00,504.90,0.00,504.90
+205,2003-10-13,3,3,1,0,Production Supervisor - WC45,32735,S,F, Teresa Gross,Port Perry,East,2017,2436.74,2436.74,0.00,0.00,0.00,0.00
+206,2002-09-29,10,4,1,0,Production Technician - WC45,22459,S,M, Tyrone Farmer,Sault Ste. Marie,West,2013,2220.66,2220.66,0.00,0.00,0.00,0.00
+206,2002-09-29,10,4,1,0,Production Technician - WC45,22459,S,M, Tyrone Farmer,Sault Ste. Marie,West,2014,13051.12,13051.12,0.00,0.00,0.00,0.00
+207,1996-09-25,2,4,1,0,Production Technician - WC45,23651,S,M, Bennie Moore,Bracebridge,East,2015,2215.95,2215.95,0.00,0.00,0.00,0.00
+207,1996-09-25,2,4,1,0,Production Technician - WC45,23651,S,M, Bennie Moore,Bracebridge,East,2016,3712.80,3712.80,0.00,0.00,0.00,0.00
+208,1996-06-18,10,4,1,0,Production Technician - WC45,25181,M,M, Phil Alvarado,Sault Ste. Marie,West,2013,18919.84,17814.66,0.00,935.76,169.42,1105.18
+208,1996-06-18,10,4,1,0,Production Technician - WC45,25181,M,M, Phil Alvarado,Sault Ste. Marie,West,2014,37588.25,37460.75,0.00,0.00,127.50,127.50
+208,1996-06-18,10,4,1,0,Production Technician - WC45,25181,M,M, Phil Alvarado,Sault Ste. Marie,West,2015,44528.20,43074.70,0.00,446.35,790.50,1236.85
+208,1996-06-18,10,4,1,0,Production Technician - WC45,25181,M,M, Phil Alvarado,Sault Ste. Marie,West,2016,71076.09,51449.72,0.00,13161.61,5452.10,18613.71
+208,1996-06-18,10,4,1,0,Production Technician - WC45,25181,M,M, Phil Alvarado,Sault Ste. Marie,West,2017,42135.79,26955.89,0.00,7682.78,765.00,8447.78
+209,1995-12-23,8,4,1,0,Production Technician - WC45,18453,M,F, Jody Maldonado,London,West,2012,44507.18,43327.04,0.00,0.00,302.94,302.94
+209,1995-12-23,8,4,1,0,Production Technician - WC45,18453,M,F, Jody Maldonado,London,West,2013,47619.54,45550.77,0.00,0.00,659.94,659.94
+209,1995-12-23,8,4,1,0,Production Technician - WC45,18453,M,F, Jody Maldonado,London,West,2014,48852.74,48368.24,0.00,0.00,484.50,484.50
+209,1995-12-23,8,4,1,0,Production Technician - WC45,18453,M,F, Jody Maldonado,London,West,2015,56594.46,53845.46,0.00,0.00,2748.99,2748.99
+209,1995-12-23,8,4,1,0,Production Technician - WC45,18453,M,F, Jody Maldonado,London,West,2016,55544.17,54528.25,0.00,0.00,744.29,744.29
+209,1995-12-23,8,4,1,0,Production Technician - WC45,18453,M,F, Jody Maldonado,London,West,2017,59737.70,55745.14,1354.49,0.00,484.50,1838.99
+210,1997-06-25,5,4,1,0,Production Technician - WC45,22971,S,F, Gladys Thomas,Bronte,East,2012,48708.56,35698.51,0.00,0.00,0.00,0.00
+211,2003-03-18,5,2,1,0,Quality Assurance Manager,28251,S,M, Jerald Palmer,Bronte,East,2013,3019.20,3019.20,0.00,0.00,0.00,0.00
+211,2003-03-18,5,2,1,0,Quality Assurance Manager,28251,S,M, Jerald Palmer,Bronte,East,2014,5497.80,5497.80,0.00,0.00,0.00,0.00
+211,2003-03-18,5,2,1,0,Quality Assurance Manager,28251,S,M, Jerald Palmer,Bronte,East,2015,5821.65,5821.65,0.00,0.00,0.00,0.00
+211,2003-03-18,5,2,1,0,Quality Assurance Manager,28251,S,M, Jerald Palmer,Bronte,East,2016,5370.30,5370.30,0.00,0.00,0.00,0.00
+211,2003-03-18,5,2,1,0,Quality Assurance Manager,28251,S,M, Jerald Palmer,Bronte,East,2017,6716.70,6716.70,0.00,0.00,0.00,0.00
+212,2001-08-21,10,3,1,0,Quality Assurance Supervisor,17673,M,M, Jeremiah Fitzgerald,Sault Ste. Marie,West,2012,98187.92,79791.12,7979.29,6654.53,1100.17,15733.99
+212,2001-08-21,10,3,1,0,Quality Assurance Supervisor,17673,M,M, Jeremiah Fitzgerald,Sault Ste. Marie,West,2013,99684.36,79613.70,8007.48,8514.41,912.26,17434.15
+212,2001-08-21,10,3,1,0,Quality Assurance Supervisor,17673,M,M, Jeremiah Fitzgerald,Sault Ste. Marie,West,2014,93356.28,79092.92,7909.40,1581.90,2135.56,11626.86
+212,2001-08-21,10,3,1,0,Quality Assurance Supervisor,17673,M,M, Jeremiah Fitzgerald,Sault Ste. Marie,West,2015,101924.36,82691.80,8269.36,3537.99,4818.69,16626.05
+212,2001-08-21,10,3,1,0,Quality Assurance Supervisor,17673,M,M, Jeremiah Fitzgerald,Sault Ste. Marie,West,2016,95987.78,82152.47,8215.38,2313.44,2220.45,12749.27
+212,2001-08-21,10,3,1,0,Quality Assurance Supervisor,17673,M,M, Jeremiah Fitzgerald,Sault Ste. Marie,West,2017,65415.27,45815.93,4581.65,1075.22,2473.38,8130.25
+213,2003-08-27,10,4,1,0,Quality Assurance Technician,29021,M,M, Sam Lucas,Sault Ste. Marie,West,2016,87856.90,77485.81,7748.67,0.00,0.00,7748.67
+213,2003-08-27,10,4,1,0,Quality Assurance Technician,29021,M,M, Sam Lucas,Sault Ste. Marie,West,2017,50345.35,38140.81,3814.11,0.00,0.00,3814.11
+214,1996-03-23,3,4,1,0,Quality Assurance Technician,17229,M,M, Tracy Huff,Port Perry,East,2017,1118.33,1118.33,0.00,0.00,0.00,0.00
+215,1996-06-23,4,4,1,0,Quality Assurance Technician,16807,S,M, Fred Wells,Pickering,East,2012,106452.68,82335.90,7326.29,16231.83,558.65,24116.78
+215,1996-06-23,4,4,1,0,Quality Assurance Technician,16807,S,M, Fred Wells,Pickering,East,2013,112261.26,82832.47,7761.86,16312.21,1776.96,25851.03
+215,1996-06-23,4,4,1,0,Quality Assurance Technician,16807,S,M, Fred Wells,Pickering,East,2014,100796.52,83475.98,7912.56,7587.86,1820.12,17320.54
+215,1996-06-23,4,4,1,0,Quality Assurance Technician,16807,S,M, Fred Wells,Pickering,East,2015,93132.43,81942.13,8092.60,907.11,2190.59,11190.30
+215,1996-06-23,4,4,1,0,Quality Assurance Technician,16807,S,M, Fred Wells,Pickering,East,2016,94110.65,82419.36,8242.01,1358.52,2090.77,11691.29
+215,1996-06-23,4,4,1,0,Quality Assurance Technician,16807,S,M, Fred Wells,Pickering,East,2017,96730.95,84884.42,8488.52,1404.27,1953.73,11846.52
+216,2002-01-31,3,4,1,0,Quality Assurance Technician,28767,S,M, Dwayne Lee,Port Perry,East,2012,119071.69,89225.68,4204.11,25236.96,404.93,29846.01
+216,2002-01-31,3,4,1,0,Quality Assurance Technician,28767,S,M, Dwayne Lee,Port Perry,East,2013,133882.37,89751.31,4678.54,36336.18,1547.17,42561.89
+216,2002-01-31,3,4,1,0,Quality Assurance Technician,28767,S,M, Dwayne Lee,Port Perry,East,2014,122201.38,90901.46,5193.43,24576.48,1530.00,31299.91
+216,2002-01-31,3,4,1,0,Quality Assurance Technician,28767,S,M, Dwayne Lee,Port Perry,East,2015,138409.99,92493.93,5747.34,34908.36,2869.18,43524.88
+216,2002-01-31,3,4,1,0,Quality Assurance Technician,28767,S,M, Dwayne Lee,Port Perry,East,2016,148419.02,98162.34,6599.04,31371.06,6001.05,43971.15
+216,2002-01-31,3,4,1,0,Quality Assurance Technician,28767,S,M, Dwayne Lee,Port Perry,East,2017,167103.01,105215.23,7590.49,41750.47,8772.98,58113.94
+217,2000-07-17,3,3,1,0,Document Control Manager,28961,M,M, Ellis Larson,Port Perry,East,2016,1976.00,1976.00,0.00,0.00,0.00,0.00
+217,2000-07-17,3,3,1,0,Document Control Manager,28961,M,M, Ellis Larson,Port Perry,East,2017,6220.73,6220.73,0.00,0.00,0.00,0.00
+218,1999-01-14,1,4,1,0,Control Specialist,33424,S,M, Willard Porter,Gravenhurst,East,2012,3770.23,3770.23,0.00,0.00,0.00,0.00
+218,1999-01-14,1,4,1,0,Control Specialist,33424,S,M, Willard Porter,Gravenhurst,East,2013,2481.15,2481.15,0.00,0.00,0.00,0.00
+219,1997-05-11,3,4,1,0,Document Control Assistant,31758,S,M, Hugh Steele,Port Perry,East,2017,3037.05,3037.05,0.00,0.00,0.00,0.00
+220,1997-09-15,1,4,1,0,Document Control Assistant,25334,M,F, Martha Harrison,Gravenhurst,East,2016,8197.86,8197.86,0.00,0.00,0.00,0.00
+220,1997-09-15,1,4,1,0,Document Control Assistant,25334,M,F, Martha Harrison,Gravenhurst,East,2017,4358.92,4358.92,0.00,0.00,0.00,0.00
+221,1999-02-11,5,4,1,0,Control Specialist,19034,M,M, Leland Elliott,Bronte,East,2016,7631.37,6919.74,0.00,711.63,0.00,711.63
+222,2000-11-04,8,2,1,0,Master Scheduler,27149,S,M, Micheal Vega,London,West,2017,743.58,743.58,0.00,0.00,0.00,0.00
+223,2001-07-25,2,3,1,1,Scheduling Assistant,23272,M,M, Chester Hogan,Bracebridge,East,2012,97584.03,82361.02,4118.12,8793.15,2311.74,15223.01
+223,2001-07-25,2,3,1,1,Scheduling Assistant,23272,M,M, Chester Hogan,Bracebridge,East,2013,97257.85,83744.96,4247.24,6611.12,714.00,11572.36
+223,2001-07-25,2,3,1,1,Scheduling Assistant,23272,M,M, Chester Hogan,Bracebridge,East,2014,101760.86,85972.57,4663.00,5882.86,2958.00,13503.86
+223,2001-07-25,2,3,1,1,Scheduling Assistant,23272,M,M, Chester Hogan,Bracebridge,East,2015,103044.45,85071.75,5121.62,5124.86,4709.69,14956.17
+223,2001-07-25,2,3,1,1,Scheduling Assistant,23272,M,M, Chester Hogan,Bracebridge,East,2016,112881.00,89167.89,5711.06,8621.61,3060.00,17392.67
+223,2001-07-25,2,3,1,1,Scheduling Assistant,23272,M,M, Chester Hogan,Bracebridge,East,2017,117818.33,91151.74,6294.10,11494.50,3794.25,21582.85
+224,1999-08-25,10,3,1,1,Scheduling Assistant,25957,M,M, Armando Allen,Sault Ste. Marie,West,2012,135427.92,96666.64,9071.86,25736.92,3952.50,38761.28
+224,1999-08-25,10,3,1,1,Scheduling Assistant,25957,M,M, Armando Allen,Sault Ste. Marie,West,2013,144897.92,97235.93,9612.17,36519.81,1530.00,47661.99
+224,1999-08-25,10,3,1,1,Scheduling Assistant,25957,M,M, Armando Allen,Sault Ste. Marie,West,2014,132981.69,98481.84,9848.33,23121.52,1530.00,34499.86
+224,1999-08-25,10,3,1,1,Scheduling Assistant,25957,M,M, Armando Allen,Sault Ste. Marie,West,2015,142973.78,100207.04,10020.85,31215.89,1530.00,42766.73
+224,1999-08-25,10,3,1,1,Scheduling Assistant,25957,M,M, Armando Allen,Sault Ste. Marie,West,2016,140762.02,101957.13,10195.85,27079.04,1530.00,38804.89
+224,1999-08-25,10,3,1,1,Scheduling Assistant,25957,M,M, Armando Allen,Sault Ste. Marie,West,2017,48101.93,15457.81,1545.80,2085.09,382.50,4013.39
+225,2003-07-16,1,3,1,1,Scheduling Assistant,18410,M,M, Al Davis,Gravenhurst,East,2013,1433.10,1433.10,0.00,0.00,0.00,0.00
+225,2003-07-16,1,3,1,1,Scheduling Assistant,18410,M,M, Al Davis,Gravenhurst,East,2014,6167.43,6167.43,0.00,0.00,0.00,0.00
+225,2003-07-16,1,3,1,1,Scheduling Assistant,18410,M,M, Al Davis,Gravenhurst,East,2015,10166.60,10166.60,0.00,0.00,0.00,0.00
+225,2003-07-16,1,3,1,1,Scheduling Assistant,18410,M,M, Al Davis,Gravenhurst,East,2016,5664.57,5664.57,0.00,0.00,0.00,0.00
+226,2003-04-07,3,3,1,1,Scheduling Assistant,27907,M,M, Ronald Obrien,Port Perry,East,2013,7854.00,7854.00,0.00,0.00,0.00,0.00
+226,2003-04-07,3,3,1,1,Scheduling Assistant,27907,M,M, Ronald Obrien,Port Perry,East,2014,6813.60,6813.60,0.00,0.00,0.00,0.00
+226,2003-04-07,3,3,1,1,Scheduling Assistant,27907,M,M, Ronald Obrien,Port Perry,East,2015,3325.20,3325.20,0.00,0.00,0.00,0.00
+227,2002-01-14,10,2,1,0,Facilities Manager,28259,M,M, Dexter Holt,Sault Ste. Marie,West,2013,800.70,800.70,0.00,0.00,0.00,0.00
+227,2002-01-14,10,2,1,0,Facilities Manager,28259,M,M, Dexter Holt,Sault Ste. Marie,West,2014,5198.94,5198.94,0.00,0.00,0.00,0.00
+227,2002-01-14,10,2,1,0,Facilities Manager,28259,M,M, Dexter Holt,Sault Ste. Marie,West,2015,4457.30,4457.30,0.00,0.00,0.00,0.00
+228,1998-09-07,10,3,1,0,Maintenance Supervisor,25283,M,M, Grant Gonzalez,Sault Ste. Marie,West,2012,5888.72,5888.72,0.00,0.00,0.00,0.00
+228,1998-09-07,10,3,1,0,Maintenance Supervisor,25283,M,M, Grant Gonzalez,Sault Ste. Marie,West,2013,1930.35,1930.35,0.00,0.00,0.00,0.00
+228,1998-09-07,10,3,1,0,Maintenance Supervisor,25283,M,M, Grant Gonzalez,Sault Ste. Marie,West,2014,8149.80,8149.80,0.00,0.00,0.00,0.00
+228,1998-09-07,10,3,1,0,Maintenance Supervisor,25283,M,M, Grant Gonzalez,Sault Ste. Marie,West,2015,10463.67,10463.67,0.00,0.00,0.00,0.00
+228,1998-09-07,10,3,1,0,Maintenance Supervisor,25283,M,M, Grant Gonzalez,Sault Ste. Marie,West,2016,4479.84,4479.84,0.00,0.00,0.00,0.00
+229,1998-11-18,6,4,1,0,Janitor,17228,M,F, Vickie Gregory,Burlington,West,2012,8485.97,8485.97,0.00,0.00,0.00,0.00
+229,1998-11-18,6,4,1,0,Janitor,17228,M,F, Vickie Gregory,Burlington,West,2013,3233.20,3233.20,0.00,0.00,0.00,0.00
+230,1997-04-29,9,4,1,0,Janitor,21762,M,M, Shaun Quinn,Sudbury,West,2012,67941.90,61104.18,4582.95,0.00,264.55,4847.50
+230,1997-04-29,9,4,1,0,Janitor,21762,M,M, Shaun Quinn,Sudbury,West,2013,69445.99,60845.89,4679.87,0.00,621.55,5301.42
+230,1997-04-29,9,4,1,0,Janitor,21762,M,M, Shaun Quinn,Sudbury,West,2014,69514.33,60600.24,4965.02,0.00,1297.88,6262.90
+230,1997-04-29,9,4,1,0,Janitor,21762,M,M, Shaun Quinn,Sudbury,West,2015,74088.93,63229.91,5495.48,0.00,3388.61,8884.10
+230,1997-04-29,9,4,1,0,Janitor,21762,M,M, Shaun Quinn,Sudbury,West,2016,72340.27,62817.19,5774.55,0.00,1764.43,7538.97
+230,1997-04-29,9,4,1,0,Janitor,21762,M,M, Shaun Quinn,Sudbury,West,2017,72740.17,63277.77,6121.98,0.00,1315.31,7437.29
+231,1998-02-10,3,4,1,0,Janitor,23842,M,F, Raquel Lindsey,Port Perry,East,2012,87681.84,73631.61,0.00,9983.49,559.98,10543.47
+231,1998-02-10,3,4,1,0,Janitor,23842,M,F, Raquel Lindsey,Port Perry,East,2013,85041.65,73429.06,0.00,7854.58,1275.00,9129.58
+231,1998-02-10,3,4,1,0,Janitor,23842,M,F, Raquel Lindsey,Port Perry,East,2014,85502.29,78809.88,0.00,924.61,1530.00,2454.61
+231,1998-02-10,3,4,1,0,Janitor,23842,M,F, Raquel Lindsey,Port Perry,East,2015,77740.07,71985.93,1789.81,2434.32,1530.00,5754.14
+231,1998-02-10,3,4,1,0,Janitor,23842,M,F, Raquel Lindsey,Port Perry,East,2016,93803.43,87035.33,2980.07,2258.04,1530.00,6768.11
+231,1998-02-10,3,4,1,0,Janitor,23842,M,F, Raquel Lindsey,Port Perry,East,2017,110424.10,88978.68,3491.66,16423.75,1530.00,21445.42
+232,2003-03-07,6,4,1,0,Janitor,29063,S,M, Jean Adams,Burlington,West,2014,3483.81,3408.08,0.00,75.74,0.00,75.74
+232,2003-03-07,6,4,1,0,Janitor,29063,S,M, Jean Adams,Burlington,West,2015,3190.05,3190.05,0.00,0.00,0.00,0.00
+232,2003-03-07,6,4,1,0,Janitor,29063,S,M, Jean Adams,Burlington,West,2016,6275.68,6210.27,0.00,65.41,0.00,65.41
+232,2003-03-07,6,4,1,0,Janitor,29063,S,M, Jean Adams,Burlington,West,2017,993.74,993.74,0.00,0.00,0.00,0.00
+233,2002-03-03,8,3,1,0,Facilities Administrative Assistant,25408,M,M, Harry Hunter,London,West,2012,108000.69,85506.78,6100.67,12440.74,3952.50,22493.91
+233,2002-03-03,8,3,1,0,Facilities Administrative Assistant,25408,M,M, Harry Hunter,London,West,2013,132295.21,86010.17,6567.25,33078.48,5100.00,44745.73
+233,2002-03-03,8,3,1,0,Facilities Administrative Assistant,25408,M,M, Harry Hunter,London,West,2014,136507.42,87112.04,7087.23,37208.15,5100.00,49395.38
+233,2002-03-03,8,3,1,0,Facilities Administrative Assistant,25408,M,M, Harry Hunter,London,West,2015,118980.39,88478.85,7641.33,16446.74,6413.47,30501.54
+233,2002-03-03,8,3,1,0,Facilities Administrative Assistant,25408,M,M, Harry Hunter,London,West,2016,127240.18,90274.83,8248.83,20989.56,7726.95,36965.34
+233,2002-03-03,8,3,1,0,Facilities Administrative Assistant,25408,M,M, Harry Hunter,London,West,2017,127224.90,93068.09,8968.43,20088.37,5100.00,34156.80
+234,2002-06-25,2,1,1,0,Chief Financial Officer,34639,M,F, June Stephens,Bracebridge,East,2016,7160.91,7160.91,0.00,0.00,0.00,0.00
+234,2002-06-25,2,1,1,0,Chief Financial Officer,34639,M,F, June Stephens,Bracebridge,East,2017,11572.92,11572.92,0.00,0.00,0.00,0.00
+235,2001-02-05,6,2,1,0,Human Resources Manager,18574,M,F, Rita Lane,Burlington,West,2016,5160.41,5160.41,0.00,0.00,0.00,0.00
+235,2001-02-05,6,2,1,0,Human Resources Manager,18574,M,F, Rita Lane,Burlington,West,2017,4777.17,4777.17,0.00,0.00,0.00,0.00
+236,1996-01-09,7,3,1,0,Human Resources Administrative Assistant,26598,S,M, Allen Fowler,Brantford,West,2015,2994.21,2994.21,0.00,0.00,0.00,0.00
+236,1996-01-09,7,3,1,0,Human Resources Administrative Assistant,26598,S,M, Allen Fowler,Brantford,West,2016,28041.44,28041.44,0.00,0.00,0.00,0.00
+236,1996-01-09,7,3,1,0,Human Resources Administrative Assistant,26598,S,M, Allen Fowler,Brantford,West,2017,42265.81,42265.81,0.00,0.00,0.00,0.00
+237,2000-06-02,10,3,1,0,Human Resources Administrative Assistant,19095,S,M, Alton Armstrong,Sault Ste. Marie,West,2017,51023.95,45359.20,0.00,3468.18,2196.57,5664.75
+238,2002-09-09,9,3,1,0,Recruiter,24373,S,M, Dave Bailey,Sudbury,West,2012,99760.39,86294.08,0.00,0.00,559.98,559.98
+238,2002-09-09,9,3,1,0,Recruiter,24373,S,M, Dave Bailey,Sudbury,West,2013,95036.38,89458.92,0.00,0.00,0.00,0.00
+238,2002-09-09,9,3,1,0,Recruiter,24373,S,M, Dave Bailey,Sudbury,West,2014,100571.61,94868.33,0.00,0.00,0.00,0.00
+238,2002-09-09,9,3,1,0,Recruiter,24373,S,M, Dave Bailey,Sudbury,West,2015,103110.96,96946.29,0.00,0.00,1020.00,1020.00
+238,2002-09-09,9,3,1,0,Recruiter,24373,S,M, Dave Bailey,Sudbury,West,2016,100943.61,99413.61,0.00,0.00,1530.00,1530.00
+238,2002-09-09,9,3,1,0,Recruiter,24373,S,M, Dave Bailey,Sudbury,West,2017,103920.72,102390.72,0.00,0.00,1530.00,1530.00
+239,1996-07-26,6,3,1,0,Benefits Specialist,31796,M,F, Monique Hamilton,Burlington,West,2017,3379.07,3180.32,0.00,198.75,0.00,198.75
+240,1998-01-22,6,3,1,0,Recruiter,34129,S,M, Luis Cross,Burlington,West,2014,2409.75,2409.75,0.00,0.00,0.00,0.00
+241,1998-10-15,4,2,1,0,Accounts Manager,27918,M,M, Oscar Butler,Pickering,East,2012,80523.37,68997.40,6899.86,0.00,0.00,6899.86
+242,1997-05-19,7,3,1,0,Accounts Receivable Specialist,17810,M,F, Alicia Daniel,Brantford,West,2012,5926.20,5926.20,0.00,0.00,0.00,0.00
+242,1997-05-19,7,3,1,0,Accounts Receivable Specialist,17810,M,F, Alicia Daniel,Brantford,West,2013,5620.20,5620.20,0.00,0.00,0.00,0.00
+242,1997-05-19,7,3,1,0,Accounts Receivable Specialist,17810,M,F, Alicia Daniel,Brantford,West,2014,3233.40,3233.40,0.00,0.00,0.00,0.00
+242,1997-05-19,7,3,1,0,Accounts Receivable Specialist,17810,M,F, Alicia Daniel,Brantford,West,2015,10.20,10.20,0.00,0.00,0.00,0.00
+243,2002-11-01,1,3,1,0,Accounts Receivable Specialist,24016,S,F, Erica Evans,Gravenhurst,East,2012,702.67,336.60,0.00,366.07,0.00,366.07
+243,2002-11-01,1,3,1,0,Accounts Receivable Specialist,24016,S,F, Erica Evans,Gravenhurst,East,2013,851.70,408.00,0.00,443.70,0.00,443.70
+243,2002-11-01,1,3,1,0,Accounts Receivable Specialist,24016,S,F, Erica Evans,Gravenhurst,East,2014,948.60,428.40,0.00,520.20,0.00,520.20
+243,2002-11-01,1,3,1,0,Accounts Receivable Specialist,24016,S,F, Erica Evans,Gravenhurst,East,2015,948.60,428.40,0.00,520.20,0.00,520.20
+243,2002-11-01,1,3,1,0,Accounts Receivable Specialist,24016,S,F, Erica Evans,Gravenhurst,East,2016,902.70,428.40,0.00,474.30,0.00,474.30
+243,2002-11-01,1,3,1,0,Accounts Receivable Specialist,24016,S,F, Erica Evans,Gravenhurst,East,2017,887.40,428.40,0.00,459.00,0.00,459.00
+244,1998-04-20,9,3,1,0,Accounts Receivable Specialist,21051,S,M, Alexander Herrera,Sudbury,West,2016,42423.65,42109.71,0.00,93.87,220.07,313.94
+244,1998-04-20,9,3,1,0,Accounts Receivable Specialist,21051,S,M, Alexander Herrera,Sudbury,West,2017,54529.24,50267.06,0.00,4134.68,127.50,4262.18
+245,1997-09-26,6,3,1,0,Accountant,21497,M,F, Kimberly Ball,Burlington,West,2015,36247.53,36247.53,0.00,0.00,0.00,0.00
+245,1997-09-26,6,3,1,0,Accountant,21497,M,F, Kimberly Ball,Burlington,West,2016,80533.99,80176.99,0.00,0.00,357.00,357.00
+245,1997-09-26,6,3,1,0,Accountant,21497,M,F, Kimberly Ball,Burlington,West,2017,89752.51,89752.51,0.00,0.00,0.00,0.00
+246,1997-06-29,7,3,1,0,Accounts Payable Specialist,18840,M,M, Santos Todd,Brantford,West,2012,9157.56,9157.56,0.00,0.00,0.00,0.00
+246,1997-06-29,7,3,1,0,Accounts Payable Specialist,18840,M,M, Santos Todd,Brantford,West,2013,193.80,193.80,0.00,0.00,0.00,0.00
+247,1999-10-04,8,3,1,0,Accounts Payable Specialist,27682,M,F, Lucia Jordan,London,West,2012,89006.00,87860.17,0.00,0.00,559.98,559.98
+247,1999-10-04,8,3,1,0,Accounts Payable Specialist,27682,M,F, Lucia Jordan,London,West,2013,88558.04,88558.04,0.00,0.00,0.00,0.00
+247,1999-10-04,8,3,1,0,Accounts Payable Specialist,27682,M,F, Lucia Jordan,London,West,2014,95103.89,90662.81,0.00,0.00,0.00,0.00
+247,1999-10-04,8,3,1,0,Accounts Payable Specialist,27682,M,F, Lucia Jordan,London,West,2015,101166.14,92997.57,0.00,0.00,1020.00,1020.00
+247,1999-10-04,8,3,1,0,Accounts Payable Specialist,27682,M,F, Lucia Jordan,London,West,2016,102854.12,94940.14,0.00,0.00,1530.00,1530.00
+247,1999-10-04,8,3,1,0,Accounts Payable Specialist,27682,M,F, Lucia Jordan,London,West,2017,106493.60,97674.37,0.00,0.00,1530.00,1530.00
+248,1998-06-03,10,3,1,0,Accountant,34420,S,M, James Reeves,Sault Ste. Marie,West,2016,3321.12,3321.12,0.00,0.00,0.00,0.00
+249,1997-05-02,8,2,1,0,Finance Manager,34554,S,F, Leslie Ruiz,London,West,2015,4008.60,4008.60,0.00,0.00,0.00,0.00
+249,1997-05-02,8,2,1,0,Finance Manager,34554,S,F, Leslie Ruiz,London,West,2016,4505.85,4505.85,0.00,0.00,0.00,0.00
+250,1997-12-30,9,3,1,0,Purchasing Manager,18646,S,F, Vicky Garner,Sudbury,West,2012,77759.73,70574.69,7057.54,0.00,127.50,7185.04
+250,1997-12-30,9,3,1,0,Purchasing Manager,18646,S,F, Vicky Garner,Sudbury,West,2013,78586.24,71326.03,7132.70,0.00,127.50,7260.20
+250,1997-12-30,9,3,1,0,Purchasing Manager,18646,S,F, Vicky Garner,Sudbury,West,2014,92658.04,40134.65,4013.55,0.00,0.00,4013.55
+251,2001-07-14,5,4,1,0,Buyer,32261,S,M, Adam Lucas,Bronte,East,2012,72391.02,67031.52,5013.13,0.00,346.37,5359.50
+251,2001-07-14,5,4,1,0,Buyer,32261,S,M, Adam Lucas,Bronte,East,2013,75515.74,69698.54,5019.87,0.00,797.33,5817.20
+251,2001-07-14,5,4,1,0,Buyer,32261,S,M, Adam Lucas,Bronte,East,2014,77014.11,67571.13,5345.11,0.00,4097.87,9442.98
+251,2001-07-14,5,4,1,0,Buyer,32261,S,M, Adam Lucas,Bronte,East,2015,82830.12,72736.49,5925.62,0.00,4168.02,10093.63
+251,2001-07-14,5,4,1,0,Buyer,32261,S,M, Adam Lucas,Bronte,East,2016,76693.80,68909.01,6233.21,0.00,1551.58,7784.79
+251,2001-07-14,5,4,1,0,Buyer,32261,S,M, Adam Lucas,Bronte,East,2017,77858.48,69255.75,6579.37,0.00,2023.36,8602.73
+252,1997-11-06,7,4,1,0,Buyer,22709,M,M, Roderick Bradley,Brantford,West,2012,83720.95,75982.02,6078.77,0.00,0.00,6078.77
+252,1997-11-06,7,4,1,0,Buyer,22709,M,M, Roderick Bradley,Brantford,West,2013,84868.48,75784.26,6397.99,154.68,53.57,6606.24
+252,1997-11-06,7,4,1,0,Buyer,22709,M,M, Roderick Bradley,Brantford,West,2014,88836.85,78748.57,7043.82,93.42,1293.74,8430.98
+252,1997-11-06,7,4,1,0,Buyer,22709,M,M, Roderick Bradley,Brantford,West,2015,133062.36,75742.13,7150.03,0.00,3760.00,10910.02
+252,1997-11-06,7,4,1,0,Buyer,22709,M,M, Roderick Bradley,Brantford,West,2016,1876.80,1876.80,0.00,0.00,0.00,0.00
+253,1999-10-09,5,4,1,0,Buyer,21041,M,F, Myrtle Cole,Bronte,East,2012,96559.68,87902.14,4395.16,0.00,0.00,4395.16
+253,1999-10-09,5,4,1,0,Buyer,21041,M,F, Myrtle Cole,Bronte,East,2013,96288.97,88837.56,4579.89,0.00,0.00,4579.89
+253,1999-10-09,5,4,1,0,Buyer,21041,M,F, Myrtle Cole,Bronte,East,2014,99735.80,89869.45,5082.12,0.00,0.00,5082.12
+253,1999-10-09,5,4,1,0,Buyer,21041,M,F, Myrtle Cole,Bronte,East,2015,111555.62,95310.91,5864.46,0.00,4453.48,10317.94
+253,1999-10-09,5,4,1,0,Buyer,21041,M,F, Myrtle Cole,Bronte,East,2016,146496.58,100149.67,3797.17,0.00,1342.67,5139.84
+253,1999-10-09,5,4,1,0,Buyer,21041,M,F, Myrtle Cole,Bronte,East,2017,122926.10,109654.88,0.00,0.00,2838.66,2838.66
+254,2002-12-04,1,4,1,0,Buyer,27059,M,M, Clint Clark,Gravenhurst,East,2012,2398.28,2398.28,0.00,0.00,0.00,0.00
+255,1998-06-10,1,4,1,0,Buyer,22682,M,M, Dan Scott,Gravenhurst,East,2012,7769.85,7769.85,0.00,0.00,0.00,0.00
+255,1998-06-10,1,4,1,0,Buyer,22682,M,M, Dan Scott,Gravenhurst,East,2013,4530.08,4530.08,0.00,0.00,0.00,0.00
+256,2001-07-01,3,4,1,0,Buyer,24208,M,M, Jesus Valdez,Port Perry,East,2017,9670.01,9670.01,0.00,0.00,0.00,0.00
+257,2000-12-07,5,4,1,0,Buyer,17320,S,M, Bob Hudson,Bronte,East,2012,45711.54,44009.63,0.00,0.00,1701.91,1701.91
+257,2000-12-07,5,4,1,0,Buyer,17320,S,M, Bob Hudson,Bronte,East,2013,45649.09,45533.03,0.00,0.00,116.06,116.06
+257,2000-12-07,5,4,1,0,Buyer,17320,S,M, Bob Hudson,Bronte,East,2014,50729.14,49960.08,0.00,0.00,13.24,13.24
+257,2000-12-07,5,4,1,0,Buyer,17320,S,M, Bob Hudson,Bronte,East,2015,56365.61,56365.61,0.00,0.00,0.00,0.00
+257,2000-12-07,5,4,1,0,Buyer,17320,S,M, Bob Hudson,Bronte,East,2016,58819.26,58272.21,547.05,0.00,0.00,547.05
+257,2000-12-07,5,4,1,0,Buyer,17320,S,M, Bob Hudson,Bronte,East,2017,61872.14,59979.14,1893.00,0.00,0.00,1893.00
+258,1999-04-09,4,4,1,0,Buyer,22860,S,F, Kelly Malone,Pickering,East,2013,829.14,829.14,0.00,0.00,0.00,0.00
+258,1999-04-09,4,4,1,0,Buyer,22860,S,F, Kelly Malone,Pickering,East,2014,23085.60,21612.09,0.00,1243.67,229.85,1473.51
+258,1999-04-09,4,4,1,0,Buyer,22860,S,F, Kelly Malone,Pickering,East,2015,45084.71,37063.16,0.00,6018.99,2002.57,8021.56
+258,1999-04-09,4,4,1,0,Buyer,22860,S,F, Kelly Malone,Pickering,East,2016,60903.03,50249.77,0.00,7751.36,2901.90,10653.26
+258,1999-04-09,4,4,1,0,Buyer,22860,S,F, Kelly Malone,Pickering,East,2017,69245.47,54679.60,0.00,10246.18,4319.70,14565.88
+259,2001-01-11,5,4,1,0,Buyer,30397,M,M, Forrest Christensen,Bronte,East,2016,4075.92,4075.92,0.00,0.00,0.00,0.00
+260,2001-03-17,6,4,1,0,Purchasing Assistant,17346,M,F, Marta Hughes,Burlington,West,2015,2139.45,2139.45,0.00,0.00,0.00,0.00
+261,2003-04-03,10,4,1,0,Purchasing Assistant,25348,M,M, Darnell Lindsey,Sault Ste. Marie,West,2012,130830.98,102151.28,10215.26,16705.98,686.25,27607.48
+261,2003-04-03,10,4,1,0,Purchasing Assistant,25348,M,M, Darnell Lindsey,Sault Ste. Marie,West,2013,135572.15,102670.13,10267.14,20369.52,1275.00,31911.66
+261,2003-04-03,10,4,1,0,Purchasing Assistant,25348,M,M, Darnell Lindsey,Sault Ste. Marie,West,2014,60130.76,12003.37,1200.35,1024.73,843.55,3068.63
+262,1998-08-08,3,2,1,0,Assistant to the Chief Financial Officer,24737,S,M, Cary Jacobs,Port Perry,East,2017,2856.16,2856.16,0.00,0.00,0.00,0.00
+263,1996-10-09,3,1,1,0,Information Services Manager,25553,S,F, Janice Blake,Port Perry,East,2012,77128.37,67282.42,6728.30,447.74,425.10,7601.13
+263,1996-10-09,3,1,1,0,Information Services Manager,25553,S,F, Janice Blake,Port Perry,East,2013,83036.47,67014.84,6701.56,6674.72,422.57,13798.85
+263,1996-10-09,3,1,1,0,Information Services Manager,25553,S,F, Janice Blake,Port Perry,East,2014,77665.05,66743.66,6674.46,444.56,1579.59,8698.61
+263,1996-10-09,3,1,1,0,Information Services Manager,25553,S,F, Janice Blake,Port Perry,East,2015,83156.31,69710.60,6971.14,439.54,3837.33,11248.01
+263,1996-10-09,3,1,1,0,Information Services Manager,25553,S,F, Janice Blake,Port Perry,East,2016,80396.29,69255.50,6925.70,0.00,2017.40,8943.09
+263,1996-10-09,3,1,1,0,Information Services Manager,25553,S,F, Janice Blake,Port Perry,East,2017,82755.01,69255.39,6925.70,0.00,2178.54,9104.23
+264,2003-03-06,10,2,1,0,Network Manager,17841,S,F, Isabel Zimmerman,Sault Ste. Marie,West,2015,6364.80,6364.80,0.00,0.00,0.00,0.00
+264,2003-03-06,10,2,1,0,Network Manager,17841,S,F, Isabel Zimmerman,Sault Ste. Marie,West,2016,5548.80,5548.80,0.00,0.00,0.00,0.00
+265,1998-08-14,3,3,1,0,Network Administrator,25655,S,M, Brad Hansen,Port Perry,East,2015,4488.09,4447.29,0.00,0.00,40.80,40.80
+266,1998-05-08,8,3,1,0,Network Administrator,17861,S,M, Lynn Mckenzie,London,West,2012,75304.27,59900.98,0.00,9345.05,4166.70,13511.75
+266,1998-05-08,8,3,1,0,Network Administrator,17861,S,M, Lynn Mckenzie,London,West,2013,78124.87,61980.84,0.00,10901.23,5242.80,16144.03
+266,1998-05-08,8,3,1,0,Network Administrator,17861,S,M, Lynn Mckenzie,London,West,2014,84851.68,65071.52,0.00,14338.46,5441.70,19780.16
+266,1998-05-08,8,3,1,0,Network Administrator,17861,S,M, Lynn Mckenzie,London,West,2015,80117.94,72168.96,0.00,4348.38,3600.60,7948.98
+266,1998-05-08,8,3,1,0,Network Administrator,17861,S,M, Lynn Mckenzie,London,West,2016,83211.81,75259.72,0.00,2770.49,5181.60,7952.09
+266,1998-05-08,8,3,1,0,Network Administrator,17861,S,M, Lynn Mckenzie,London,West,2017,99638.87,79417.29,938.94,8576.07,6028.20,15543.21
+267,1996-02-17,2,2,1,0,Application Specialist,31336,S,F, Amelia Parsons,Bracebridge,East,2014,3143.03,3143.03,0.00,0.00,0.00,0.00
+267,1996-02-17,2,2,1,0,Application Specialist,31336,S,F, Amelia Parsons,Bracebridge,East,2015,3340.77,3340.77,0.00,0.00,0.00,0.00
+268,1998-02-13,8,2,1,0,Application Specialist,30724,S,M, Brandon Walker,London,West,2012,76921.42,70235.42,4715.90,0.00,834.54,5550.44
+268,1998-02-13,8,2,1,0,Application Specialist,30724,S,M, Brandon Walker,London,West,2013,77224.74,69799.33,4800.43,1792.06,832.93,7425.42
+268,1998-02-13,8,2,1,0,Application Specialist,30724,S,M, Brandon Walker,London,West,2014,78265.71,69548.85,5116.77,903.56,1969.07,7989.39
+268,1998-02-13,8,2,1,0,Application Specialist,30724,S,M, Brandon Walker,London,West,2015,82577.10,72727.43,5696.86,0.00,4152.81,9849.67
+268,1998-02-13,8,2,1,0,Application Specialist,30724,S,M, Brandon Walker,London,West,2016,81029.26,70759.31,6006.80,0.00,4263.15,10269.95
+268,1998-02-13,8,2,1,0,Application Specialist,30724,S,M, Brandon Walker,London,West,2017,82084.11,69179.86,6353.12,0.00,6551.13,12904.25
+269,2003-02-12,5,2,1,0,Application Specialist,34718,M,M, Bennie Wright,Bronte,East,2017,17858.86,17170.44,0.00,475.16,213.27,688.43
+270,2002-01-25,3,2,1,0,Database Administrator,21760,S,M, Marion Tran,Port Perry,East,2014,1150.05,1150.05,0.00,0.00,0.00,0.00
+271,2001-04-06,1,2,1,0,Database Administrator,21263,M,M, Everett Potter,Gravenhurst,East,2012,102739.60,90516.21,9051.81,0.00,400.25,9452.05
+271,2001-04-06,1,2,1,0,Database Administrator,21263,M,M, Everett Potter,Gravenhurst,East,2013,111947.26,90133.60,9013.53,7055.21,756.11,16824.84
+271,2001-04-06,1,2,1,0,Database Administrator,21263,M,M, Everett Potter,Gravenhurst,East,2014,107357.07,89850.14,8985.19,3217.83,2311.84,14514.87
+271,2001-04-06,1,2,1,0,Database Administrator,21263,M,M, Everett Potter,Gravenhurst,East,2015,111186.47,93848.71,9384.99,0.00,4994.36,14379.35
+271,2001-04-06,1,2,1,0,Database Administrator,21263,M,M, Everett Potter,Gravenhurst,East,2016,108419.47,93236.13,9323.67,0.00,2901.27,12224.93
+271,2001-04-06,1,2,1,0,Database Administrator,21263,M,M, Everett Potter,Gravenhurst,East,2017,109613.25,93236.95,9323.83,986.14,3107.93,13417.90
+272,2000-04-21,9,2,1,0,Application Specialist,31336,M,F, Kathy Walters,Sudbury,West,2017,10150.89,10150.89,0.00,0.00,0.00,0.00
+273,1999-11-12,6,1,1,0,Vice President of Sales,30612,S,M, Roberto Mills,Burlington,West,2012,96344.43,83037.77,5592.48,4992.78,311.10,10896.35
+273,1999-11-12,6,1,1,0,Vice President of Sales,30612,S,M, Roberto Mills,Burlington,West,2013,95146.24,82808.93,5908.61,3527.63,668.10,10104.33
+273,1999-11-12,6,1,1,0,Vice President of Sales,30612,S,M, Roberto Mills,Burlington,West,2014,94173.11,81720.99,6281.94,1912.48,2014.11,10208.53
+273,1999-11-12,6,1,1,0,Vice President of Sales,30612,S,M, Roberto Mills,Burlington,West,2015,103873.53,88509.27,7162.66,1250.85,4646.42,13059.93
+273,1999-11-12,6,1,1,0,Vice President of Sales,30612,S,M, Roberto Mills,Burlington,West,2016,108860.12,94637.45,8110.80,3034.46,811.78,11957.03
+273,1999-11-12,6,1,1,0,Vice President of Sales,30612,S,M, Roberto Mills,Burlington,West,2017,111088.01,97122.68,8786.40,516.22,456.29,9758.91
+274,1997-12-16,4,2,1,0,North American Sales Manager,33767,M,M, Chad Mcguire,Pickering,East,2012,150657.88,89225.67,5439.42,49575.75,1119.91,56135.08
+274,1997-12-16,4,2,1,0,North American Sales Manager,33767,M,M, Chad Mcguire,Pickering,East,2013,148483.07,89751.43,5920.70,47133.61,2362.32,55416.63
+274,1997-12-16,4,2,1,0,North American Sales Manager,33767,M,M, Chad Mcguire,Pickering,East,2014,178299.77,90901.30,6451.31,76126.57,2386.80,84964.67
+274,1997-12-16,4,2,1,0,North American Sales Manager,33767,M,M, Chad Mcguire,Pickering,East,2015,58528.29,13208.41,990.64,3098.04,504.90,4593.58
+275,1998-03-25,4,3,1,1,Sales Representative,16915,S,M, Ismael Curry,Pickering,East,2012,79589.21,72353.79,7235.42,0.00,0.00,7235.42
+275,1998-03-25,4,3,1,1,Sales Representative,16915,S,M, Ismael Curry,Pickering,East,2013,79450.71,72011.41,7201.23,238.07,0.00,7439.30
+275,1998-03-25,4,3,1,1,Sales Representative,16915,S,M, Ismael Curry,Pickering,East,2014,86696.06,72011.13,7201.24,6240.22,1243.47,14684.93
+275,1998-03-25,4,3,1,1,Sales Representative,16915,S,M, Ismael Curry,Pickering,East,2015,86101.10,75003.23,7500.44,0.00,3597.43,11097.87
+275,1998-03-25,4,3,1,1,Sales Representative,16915,S,M, Ismael Curry,Pickering,East,2016,85296.19,75678.83,7568.00,0.00,2049.36,9617.37
+275,1998-03-25,4,3,1,1,Sales Representative,16915,S,M, Ismael Curry,Pickering,East,2017,95268.89,76910.61,7691.19,215.27,0.00,7906.46
+276,2003-11-09,2,3,1,1,Sales Representative,29499,M,F, Crystal Hicks,Bracebridge,East,2015,27222.57,22332.18,0.00,4321.27,569.12,4890.39
+276,2003-11-09,2,3,1,1,Sales Representative,29499,M,F, Crystal Hicks,Bracebridge,East,2016,18731.60,12373.94,0.00,6357.66,0.00,6357.66
+277,1996-03-18,7,3,1,1,Sales Representative,27133,S,F, Stella Estrada,Brantford,West,2013,3595.50,3595.50,0.00,0.00,0.00,0.00
+277,1996-03-18,7,3,1,1,Sales Representative,27133,S,F, Stella Estrada,Brantford,West,2014,10467.75,10467.75,0.00,0.00,0.00,0.00
+277,1996-03-18,7,3,1,1,Sales Representative,27133,S,F, Stella Estrada,Brantford,West,2015,8170.20,8170.20,0.00,0.00,0.00,0.00
+277,1996-03-18,7,3,1,1,Sales Representative,27133,S,F, Stella Estrada,Brantford,West,2016,7735.17,7735.17,0.00,0.00,0.00,0.00
+277,1996-03-18,7,3,1,1,Sales Representative,27133,S,F, Stella Estrada,Brantford,West,2017,601.80,601.80,0.00,0.00,0.00,0.00
+278,2003-09-27,10,3,1,1,Sales Representative,26099,M,M, Oliver Neal,Sault Ste. Marie,West,2014,716.04,716.04,0.00,0.00,0.00,0.00
+279,2003-08-01,1,3,1,1,Sales Representative,25968,M,M, Keith Garrett,Gravenhurst,East,2017,35096.75,33566.75,0.00,0.00,1530.00,1530.00
+280,2000-04-07,8,3,1,1,Sales Representative,33989,S,F, Lynda Stanley,London,West,2012,127713.88,90021.16,4785.27,31826.89,382.50,36994.66
+280,2000-04-07,8,3,1,1,Sales Representative,33989,S,F, Lynda Stanley,London,West,2013,135195.74,90572.70,5243.88,34796.57,1530.00,41570.45
+280,2000-04-07,8,3,1,1,Sales Representative,33989,S,F, Lynda Stanley,London,West,2014,157858.88,87111.92,5746.81,54956.87,6172.93,66876.61
+280,2000-04-07,8,3,1,1,Sales Representative,33989,S,F, Lynda Stanley,London,West,2015,145526.63,88638.05,6290.84,41147.42,6276.39,53714.65
+280,2000-04-07,8,3,1,1,Sales Representative,33989,S,F, Lynda Stanley,London,West,2016,151178.88,90315.09,6860.42,40751.46,6362.00,53973.87
+280,2000-04-07,8,3,1,1,Sales Representative,33989,S,F, Lynda Stanley,London,West,2017,158828.77,93068.12,7536.17,44008.41,10004.11,61548.69
+281,2001-09-10,3,3,1,1,Sales Representative,25301,M,M, Earnest Mullins,Port Perry,East,2017,4457.40,4457.40,0.00,0.00,0.00,0.00
+282,1995-12-13,1,3,1,1,Sales Representative,29478,M,M, Gilbert Williamson,Gravenhurst,East,2012,50947.78,47838.12,3109.65,0.00,0.00,3109.65
+282,1995-12-13,1,3,1,1,Sales Representative,29478,M,M, Gilbert Williamson,Gravenhurst,East,2013,13844.23,12936.79,840.93,0.00,0.00,840.93
+283,2003-02-05,4,3,1,1,Sales Representative,16876,S,M, Irvin Abbott,Pickering,East,2015,51464.56,51021.48,0.00,0.00,443.08,443.08
+283,2003-02-05,4,3,1,1,Sales Representative,16876,S,M, Irvin Abbott,Pickering,East,2016,56953.41,55255.48,0.00,1018.36,679.58,1697.93
+283,2003-02-05,4,3,1,1,Sales Representative,16876,S,M, Irvin Abbott,Pickering,East,2017,51385.41,48976.49,0.00,1258.58,311.10,1569.68
+284,2001-01-04,6,3,1,1,Sales Representative,17204,M,M, Neal Burns,Burlington,West,2017,4548.69,4548.69,0.00,0.00,0.00,0.00
+285,2003-11-29,2,2,1,0,Pacific Sales Manager,26963,M,M, Brent Gray,Bracebridge,East,2015,2394.18,2394.18,0.00,0.00,0.00,0.00
+285,2003-11-29,2,2,1,0,Pacific Sales Manager,26963,M,M, Brent Gray,Bracebridge,East,2016,4125.90,4125.90,0.00,0.00,0.00,0.00
+286,2003-04-29,10,3,1,1,Sales Representative,29844,S,F, Samantha Page,Sault Ste. Marie,West,2017,24065.33,23772.90,0.00,0.00,292.43,292.43
+287,2002-08-12,7,2,1,0,European Sales Manager,23034,M,F, Margaret Howell,Brantford,West,2012,45530.88,24337.76,2190.46,0.00,0.00,2190.46
+288,2001-11-06,5,3,1,1,Sales Representative,26841,S,F, Jessie Griffin,Bronte,East,2015,2004.30,2004.30,0.00,0.00,0.00,0.00
+288,2001-11-06,5,3,1,1,Sales Representative,26841,S,F, Jessie Griffin,Bronte,East,2016,5355.00,5355.00,0.00,0.00,0.00,0.00
+288,2001-11-06,5,3,1,1,Sales Representative,26841,S,F, Jessie Griffin,Bronte,East,2017,1667.70,1667.70,0.00,0.00,0.00,0.00
+289,1995-11-20,3,3,1,1,Sales Representative,26760,M,F, Tammy Rhodes,Port Perry,East,2014,372.30,372.30,0.00,0.00,0.00,0.00
+289,1995-11-20,3,3,1,1,Sales Representative,26760,M,F, Tammy Rhodes,Port Perry,East,2015,8624.51,8624.51,0.00,0.00,0.00,0.00
+289,1995-11-20,3,3,1,1,Sales Representative,26760,M,F, Tammy Rhodes,Port Perry,East,2016,10082.70,10082.70,0.00,0.00,0.00,0.00
+289,1995-11-20,3,3,1,1,Sales Representative,26760,M,F, Tammy Rhodes,Port Perry,East,2017,8381.34,8381.34,0.00,0.00,0.00,0.00
+290,1998-08-09,5,3,1,1,Sales Representative,27937,S,M, Julian Ferguson,Bronte,East,2012,58528.12,55384.22,2492.50,523.90,127.50,3143.91
+290,1998-08-09,5,3,1,1,Sales Representative,27937,S,M, Julian Ferguson,Bronte,East,2013,58440.60,55063.57,2572.83,523.72,280.50,3377.05
+290,1998-08-09,5,3,1,1,Sales Representative,27937,S,M, Julian Ferguson,Bronte,East,2014,58732.66,54855.01,2838.23,0.00,1039.42,3877.65
+290,1998-08-09,5,3,1,1,Sales Representative,27937,S,M, Julian Ferguson,Bronte,East,2015,63662.89,57351.70,3253.12,0.00,3058.07,6311.19
+290,1998-08-09,5,3,1,1,Sales Representative,27937,S,M, Julian Ferguson,Bronte,East,2016,61864.76,56977.04,3517.31,35.01,1335.41,4887.73
+290,1998-08-09,5,3,1,1,Sales Representative,27937,S,M, Julian Ferguson,Bronte,East,2017,10777.53,8765.77,569.79,0.00,0.00,569.79
