@@ -40,7 +40,7 @@ import matplotlib.pyplot as pp
 
 
 #%%
-Employees = pd.read_csv(r'C:\Users\steve\Documents\GitHub\PythonTutorial\Excel_PowerBI_StarterDataSet_2019_Mini_v1.csv')
+Employees = pd.read_csv(r'C:\Users\steveyoung\Documents\GitHub\PythonTutorial\Excel_PowerBI_StarterDataSet_2019_Mini_v1.csv')
 
 #%%
 #Clean UP
@@ -79,7 +79,7 @@ Employees.loc[' Ashley Berry']
 #%%
 Employees_trimmed.loc['Ashley Berry']
 #%%
-planets
+Employees
 
 
 #%%
